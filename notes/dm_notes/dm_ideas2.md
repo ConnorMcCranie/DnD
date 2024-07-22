@@ -8,7 +8,7 @@
 - In shop, there will be
     - common armor/weapons (see players handbook)
     - potion of animal friendship (~20 gp depending on charisma check)
-    - potion of healing (~20 gp
+    - potion of healing (~20 gp)
     - scroll of knock (~15 gp, must ask shopkeeper to see special items DC 7 persuasion)
 -   Upon leaving town, Alyona uses the Eye to telepathically say:
   > Don't try to stop me; There is more at play here than you know. I can explain everything.

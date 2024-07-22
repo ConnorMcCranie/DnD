@@ -19,6 +19,10 @@
 - In charge of the Guilded Tavern, Zaridel's most luxurious tavern
 - Winked at Thalor
 
+##### Brother Marten
+  
+- Lead miner at Marwinn's Mine (halfling)
+- Tells the party that any failure to meet the coal quota is met with harsh punishment
 
 ##### Varinn (the Veracious):
 
@@ -29,6 +33,10 @@
 - Tall, muscular human with tan skin, dark brown hair and blue eyes
 - In charge of leading worship in the cathedral and interpreting the will of Zarus for the townsfolk
 
+##### Marwinn (the Magnanamous)
+
+- Varinn's grandfather
+- Reportedly wore an eyepatch
   
 ##### Zarus
 - God of perfection, worshiped by the Zarunites
