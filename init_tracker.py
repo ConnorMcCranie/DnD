@@ -94,8 +94,11 @@ def submit_stats():
     spell_slots8 = char_spell_slots8_var.get()
     spell_slots9 = char_spell_slots9_var.get()
 
-    characters.append([name, [str, dex, con, int, wis, cha], hp, ac, 
-                       [spell_slots1, spell_slots2], lvl, char_class])
+    characters.append([name, [str, dex, con, int, wis, cha], hp, ac,                        
+                       [spell_slots1, spell_slots2,spell_slots3,
+                        spell_slots4,spell_slots5,spell_slots6,
+                        spell_slots7,spell_slots8,spell_slots9]
+                         , lvl, char_class])
     treev.insert("", 'end', name, 
                  values =(0, name, hp, ac, 
                           [spell_slots1,spell_slots2,spell_slots3,
@@ -124,7 +127,7 @@ def add_character():
     name_entry.place(x=260, y = 20)
 
     # Create a label to prompt the user to enter the character's stats
-    tk.Label(new_char_window, text = 'Enter Character Statistics:').place(x=250, y = 60)
+    tk.Label(new_char_window, text = 'Enter Modifiers:').place(x=250, y = 60)
 
     # Create an entry boxes for the user to enter the stats
     str_entry = tk.Entry(new_char_window, textvariable = char_str_var)
@@ -282,48 +285,58 @@ def add_character():
     spell_slots9_entry.place(x=560, y=240)
 
     
-    
 
 
     
 # Create a function to set initiative for a character
-def set_initiative(character):
-    # get the initiative value from the entry box and add dex modifier
-    init = char_init_var.get() + character[1][1]
+def set_initiative():
+    for character in characters:
+        # get the initiative value from the entry box and add dex modifier
+        init = globals()[f'{character[0]}_init_var'].get() + character[1][1]
 
-    # set the initiative value for the character
-    treev.set(character[0], 'Initiative', init)
+        # set the initiative value for the character
+        character[-1] = init
+        treev.set(character[0], 'Initiative', init)
 
     # update the initiative order in the characters list
-    characters.sort(key = lambda x: x[0], reverse = True)
+    characters.sort(key = lambda x: x[-1], reverse = True)
     for i in range(len(characters)):
-        treev.move(characters[i][1], '', i)
+        treev.move(characters[i][0], '', i)
 
-    # clear the entry box
-    char_init_var.set(0)
+
 
 
 
 # Create a function to roll for initiative
-def roll_initiative(character):
+def roll_initiative():
     # Create a new window to prompt character to roll for initiative
     new_window = tk.Toplevel(window)
     new_window.title('Roll for Initiative!')
-    new_window.geometry('600x300')
+    new_window.geometry('800x200')
 
     # Create a label to prompt the character to roll for initiative
-    tk.Label(new_window, text = f"{character[0]}, roll a D20!").pack()
+    tk.Label(new_window, text = "Roll a D20!").pack()
 
-    # Create an entry box for the character to enter their initiative roll
-    init_entry = tk.Entry(new_window, textvariable = char_init_var)
-    init_entry.pack()
+    # Create an entry box for each character to enter their initiative roll
+    i = 0
+    for character in characters:
+        globals()[f'{character[0]}_init_var'] = tk.IntVar()
+        tk.Entry(new_window, textvariable = 
+             globals()[f'{character[0]}_init_var']).place(x=i, y=100)
+        tk.Label(new_window, text = character[0]).place(x=i, y=120)
+        i = i + 800/len(characters)
+
+    
 
     # Create a button to roll for initiative
-    roll_button = tk.Button(new_window, text = 'Submit', command = lambda: set_initiative(character))
+    roll_button = tk.Button(new_window, text = 'Submit', command = lambda: set_initiative())
     roll_button.pack()
 
 # Create a button to add a character
 add_button = tk.Button(window, text = 'Add Character', command = add_character).pack()
+
+# Create a button to roll for initiative
+roll_button = tk.Button(window, text = 'Roll for Initiative', command = lambda: roll_initiative()).pack()
 
 
 window.mainloop()
