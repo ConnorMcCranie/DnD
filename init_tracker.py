@@ -7,65 +7,18 @@ from tkinter import ttk
 
 ###########################
 
-# Create the main window
-window = tk.Tk()
-window.title('Initiative Tracker')
-window.resizable(width = 20, height = 10)
-
-
-# Use treeview to display the list of characters
-treev = ttk.Treeview(window)
-
-# Configuring treeview
-treev.pack(side = 'right')
-verscrlbar = ttk.Scrollbar(window, orient ="vertical", command = treev.yview)
-verscrlbar.pack(side ='right', fill ='x')
-
-# Defining number of columns
-treev["columns"] = ("Initiative", "Name", "HP" , "AC", "Spell Slots", "Effects")
-
-# Defining heading
-treev['show'] = 'headings'
-
-# Assigning the width and anchor to  the respective columns
-treev.column("Initiative", width = 60, anchor ='center')
-treev.column("Name", width = 150, anchor ='center')
-treev.column("HP", width = 80, anchor ='center')
-treev.column("AC", width = 80, anchor ='center')
-treev.column("Spell Slots", width = 150, anchor ='center')
-treev.column("Effects", width = 150, anchor ='center')
-
-
-# Assigning the heading names to the respective columns
-treev.heading("Initiative", text ="Init")
-treev.heading("Name", text ="Name")
-treev.heading("HP", text ="HP")
-treev.heading("AC", text ="AC")
-treev.heading("Spell Slots", text ="Spell Slots")
-treev.heading("Effects", text ="Active Effects")
-
-# Create variables for character stats
-char_init_var = tk.IntVar()
-char_name_var = tk.StringVar()
-char_str_var = tk.IntVar()
-char_dex_var = tk.IntVar()
-char_con_var = tk.IntVar()
-char_int_var = tk.IntVar()
-char_wis_var = tk.IntVar()
-char_cha_var = tk.IntVar()
-char_hp_var = tk.IntVar()
-char_ac_var = tk.IntVar()
-char_lvl_var = tk.IntVar()
-char_class_var = tk.StringVar()
-char_spell_slots1_var = tk.IntVar()
-char_spell_slots2_var = tk.IntVar()
-char_spell_slots3_var = tk.IntVar()
-char_spell_slots4_var = tk.IntVar()
-char_spell_slots5_var = tk.IntVar()
-char_spell_slots6_var = tk.IntVar()
-char_spell_slots7_var = tk.IntVar()
-char_spell_slots8_var = tk.IntVar()
-char_spell_slots9_var = tk.IntVar()
+# dnd specific variables
+# proficiency bonus at lvl n
+def proficiency(n : int) -> int:
+    if n > 20 or n < 1:
+        raise ValueError("Level must be between 1 and 20")
+    else:
+        return 2 + (n-1)//4
+    
+# primary stat for each class when attacking
+primary_ability = {'barbarian': 'strength', 'bard': 'charisma', 'cleric': 'wisdom', 'druid': 'wisdom',
+                   'fighter': 'strength', 'monk': 'dexterity', 'paladin': 'strength', 'ranger': 'dexterity',
+                   'rogue': 'dexterity', 'sorcerer': 'charisma', 'warlock': 'charisma', 'wizard': 'intelligence'}
 
 
 # Create a list of characters and their initiative
@@ -308,7 +261,7 @@ def set_initiative():
 
 
 # Create a function to roll for initiative
-def roll_initiative():
+def roll_initiative()-> None:
     # Create a new window to prompt character to roll for initiative
     new_window = tk.Toplevel(window)
     new_window.title('Roll for Initiative!')
@@ -332,11 +285,175 @@ def roll_initiative():
     roll_button = tk.Button(new_window, text = 'Submit', command = lambda: set_initiative())
     roll_button.pack()
 
+
+
+# create a function to track combat
+def track_combat() -> None:
+    # Create a new window to prompt the user to track combat
+    combat_window = tk.Toplevel(window)
+    combat_window.title('Fight!')
+    combat_window.geometry('800x400')
+
+    # organize the players in their initiative order 
+    ordered_chars = treev.get_children()
+
+    # select the first character to go
+    globals()['turn_counter'] : int = 0
+    num_players = len(ordered_chars)
+    treev.selection_set(ordered_chars[globals()['turn_counter']])
+
+    # if an attack hits, open a window to prompt for damage
+    def attack_hits() -> None:
+        hit_window = tk.Toplevel(combat_window)
+        hit_window.title('That\'s a Hit!')
+        hit_window.geometry('400x200')
+        # create a label to prompt the user to enter the damage
+        damage_entry = tk.Entry(hit_window, textvariable=damage_roll_var)
+        damage_prompt = tk.Label(hit_window, text = 'Enter the damage:')
+        damage_entry.pack()
+        damage_prompt.pack()
+
+        #create function do deal the damage and update tree
+        def deal_damage() ->  None:
+            # get the damage and target from the entry boxes
+            damage = damage_entry.get()
+            target = target_select.get()
+            
+            #####BUG CHECK######
+            print(f"{damage = }")
+            print(f"{target = }")
+
+            # subtract the damage from the target's HP
+            current_hp = treev.item(target)['values'][2]
+            treev.set(target, 'HP', int(current_hp) - int(damage))
+            # after the attack is resolved, move to the next character
+            globals()['turn_counter'] += 1
+            treev.selection_set(ordered_chars[globals()['turn_counter'] % num_players] )
+            current_turn_label.config(text = f"It's {ordered_chars[globals()['turn_counter']]}'s turn!")           
+            hit_window.destroy()
+        # create buttons to submit/cancel the damage
+        
+        submit_button = tk.Button(hit_window, text = 'Deal Damage', command = lambda: deal_damage())
+        cancel_button = tk.Button(hit_window, text = 'Cancel', command = lambda: hit_window.destroy())
+
+        
+        # create an entry box for the user to enter the damage
+        
+        # place the buttons
+        submit_button.pack()
+        cancel_button.pack()
+
+    # if an attack misses, open a window to confirm or cancel the miss
+    def attack_misses() -> None:
+        miss_window = tk.Toplevel(combat_window)
+        miss_window.title('That\'s a Miss!')
+        miss_window.geometry('400x200')
+
+        def miss_damage() -> None:
+            # after the attack is resolved, move to the next character
+            globals()['turn_counter'] += 1
+            treev.selection_set(ordered_chars[globals()['turn_counter'] % num_players] )
+            current_turn_label.config(text = f"It's {ordered_chars[globals()['turn_counter']]}'s turn!")
+            miss_window.destroy()
+
+        # create buttons to confirm/cancel the miss
+        confirm_button = tk.Button(miss_window, text = 'Bummer!', command = lambda: miss_damage())
+        cancel_button = tk.Button(miss_window, text = 'Cancel', command = lambda: miss_window.destroy())
+
+        # place the buttons
+        confirm_button.pack()
+        cancel_button.pack()
+
+    # create function which makes current player attack
+    def attack(roll : int, target : str) -> None:
+        # determine if the attack hits
+        print(treev.item(target))
+        print(int(treev.item(target)['values'][3]))
+        if int(roll) >= int(treev.item(target)['values'][3]):
+            attack_hits()
+        else:
+            attack_misses()
+        
+
+
+    
+
+
+    
+
+    # Tell the user who's turn it is
+    current_turn_label = tk.Label(combat_window, text = f"It's {ordered_chars[globals()['turn_counter']]}'s turn!")
+    current_turn_label.pack()
+
+    damage_roll = tk.Entry(combat_window)
+    target_select = ttk.Combobox(combat_window, values = ordered_chars)
+    attack_button = tk.Button(combat_window, text = 'Roll to hit', command= lambda: attack(damage_roll.get(), target_select.get()))
+    
+    damage_roll.pack()
+    attack_button.pack()
+    target_select.pack()
+
+# Create the main window
+window = tk.Tk()
+window.title('Initiative Tracker')
+window.resizable(width = 20, height = 10)
+
+
+# Use treeview to display the list of characters
+treev = ttk.Treeview(window)
+
+# Configuring treeview
+treev.pack(side = 'right')
+verscrlbar = ttk.Scrollbar(window, orient ="vertical", command = treev.yview)
+verscrlbar.pack(side ='right', fill ='x')
+
+# Defining number of columns
+treev["columns"] = ("Initiative", "Name", "HP" , "AC", "Spell Slots", "Effects")
+
+# Defining heading
+treev['show'] = 'headings'
+
+# Assigning the width and anchor to  the respective columns
+treev.column("Initiative", width = 60, anchor ='center')
+treev.column("Name", width = 150, anchor ='center')
+treev.column("HP", width = 80, anchor ='center')
+treev.column("AC", width = 80, anchor ='center')
+treev.column("Spell Slots", width = 150, anchor ='center')
+treev.column("Effects", width = 150, anchor ='center')
+
+
+# Assigning the heading names to the respective columns
+treev.heading("Initiative", text ="Init")
+treev.heading("Name", text ="Name")
+treev.heading("HP", text ="HP")
+treev.heading("AC", text ="AC")
+treev.heading("Spell Slots", text ="Spell Slots")
+treev.heading("Effects", text ="Active Effects")
+
+# Create variables
+char_init_var = tk.IntVar(); char_name_var = tk.StringVar();
+char_str_var = tk.IntVar();char_dex_var = tk.IntVar()
+char_con_var = tk.IntVar();char_int_var = tk.IntVar()
+char_wis_var = tk.IntVar();char_cha_var = tk.IntVar()
+char_hp_var = tk.IntVar();char_ac_var = tk.IntVar()
+char_lvl_var = tk.IntVar();char_class_var = tk.StringVar()
+char_spell_slots1_var = tk.IntVar();char_spell_slots2_var = tk.IntVar()
+char_spell_slots3_var = tk.IntVar();char_spell_slots4_var = tk.IntVar()
+char_spell_slots5_var = tk.IntVar();char_spell_slots6_var = tk.IntVar()
+char_spell_slots7_var = tk.IntVar();char_spell_slots8_var = tk.IntVar()
+char_spell_slots9_var = tk.IntVar()
+
+damage_roll_var = tk.IntVar()
+
 # Create a button to add a character
 add_button = tk.Button(window, text = 'Add Character', command = add_character).pack()
 
 # Create a button to roll for initiative
 roll_button = tk.Button(window, text = 'Roll for Initiative', command = lambda: roll_initiative()).pack()
+
+# create a button to start combat
+fight_button = tk.Button(window, text = 'Start Combat', command=lambda:track_combat()).pack()
+
 
 
 window.mainloop()
