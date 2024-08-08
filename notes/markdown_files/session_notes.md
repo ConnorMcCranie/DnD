@@ -1,5 +1,8 @@
 
-#### Session 1
+
+<p></p>
+
+# Session 1
 
 - Players are travelling in a carriage toward Zaridel when a hitchhiker named Alyona joins them. She says that something important to her was stolen by Varinn and that she intends to get it back. 
 - Upon arriving to Zaridel, the party is greeted by Brother Marth, who recognizes Alyona. Immediately, Alyona rushes out of the carriage at super-human speed without explanation 
@@ -14,8 +17,11 @@
 -  Alarm bells start ringing and Brother Marth runs up to Varinn and says "There is an emergency! The Left Eye of Zarus has been stolen!" 
 -  Varinn says he knows who must have stolen it and asks the party to help retrieve it in return for a reward. 
 -  The party agrees to help and Varinn offers to let them stay in a tavern for free. The party lodges at the luxurious tavern for the night. 
-  
-#### Session 2
+
+<div style="page-break-after:always">&nbsp;</div>
+
+
+# Session 2
 
 - Players are awoken by Brother Mathias who serves them delicious egg and cheese mini-quiches 
 - Varinn informs the party that the theif was spotted heading west into the forest
@@ -45,6 +51,9 @@
    - The miners hand her a pickaxe since they think she is there to work. 
    - After some confusion, they tell her that the Lucky Deer Lodge is about 2 miles due west into the forest past a stream
  - The party proceeds into the forest toward the cabin and soon notice that vegetation is becoming thicker and thicker. Some are even tropical plants that wouldn't typically grow in a mountainous climate such as thick vines, mango trees, and licorice root
+ - Moosra uses Speak with Animals to talk to a nearby prairie dog who goes on a long rant about his underground tunnels:
+    > "Sometimes in life you get caught up in the little things. You gotta remember; it's about the **tunnels** !"
+    - Moosra feeds the jar of honey to the prairie dog and swoops in to kiss him on the forehead before he runs back into his hole
  - Upon reaching the river, the party is suddenly attacked by angry squirrels and a pack of wolves. 
  - After defeating the animals, the party hears Alyona in their minds again:
    - She warns them again to stay out of this, but the party says they're here to help
