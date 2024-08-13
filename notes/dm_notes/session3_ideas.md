@@ -1,4 +1,4 @@
-### Outline
+##### Session 3 Outline
 1. Meet with Alyona in lodge where she:
    - explains her backstory
    - says she doesn't fully understand how the Left Eye of Zarus works or why the animals attacked (Prarie dog tells her that they gave him honey)
@@ -9,14 +9,14 @@
    - They are talking about how the Corvine Corset was supposed to be a reward for returning the Eye, but the false heros betrayed the town by siding with Alyona
     - The shirt was supposed to be brought by the previous group carrying the other 3 rewards, but it mysteriously disappeared only to later be found in the exact same place 
     - They will fight the party upon recognizing them and the Corvine Corset can be looted 
-3.  Party continuously feels like they are being watched because Varinn has spies in the bodies of small forest animals watching everything
+3.  Party continuously feels like they are being watched because Varinn has animal spies 
 4. On the way to the Library/Museum is a small town: **Owen's Outpost** (pop ~ 30)
 
    - Consists of 'reject' ex-Zarunites. There are 3 types: 
      - non-humans (mostly half-orcs, tiefling with a few Tabaxi and half-elf) who wanted to live in Zaridel but not deemed worthy of a human body
-     - former humans who got put in non-human bodies for someone else whose mind was deemed 'superior.'
-     - humans who became disillusioned and escaped (mostly women who escaped the breeeding farms)
-   - Small amount of town folk want to get revenge on Varinn, but most see this as impossible and just want to move on with their lives
+     - former humans who got put in non-human bodies
+     - humans who escaped (mostly women)
+   - Small amount of town folk want to get revenge on Varinn, but most see this as impossible 
    - Party needs to find get the map to Lavander Library/Mystic Museum. 
      - if they try to go without it, there will be forks in the road and various traps
      - most people don't know much other than the fact that Zarunites sometimes pass through the Outpost on their way to do errands for Varrin
