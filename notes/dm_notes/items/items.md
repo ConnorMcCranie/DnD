@@ -1,4 +1,4 @@
-#### Corvine Corset
+### Corvine Corset
 *Clothing, Artifact*
 :
 A black leather corset with the image of a raven embossed on the left shoulder. When worn, it changes its size to fit the wearer perfectly.
@@ -16,3 +16,23 @@ A black leather corset with the image of a raven embossed on the left shoulder. 
 
 [comment]: <> (Scrambled text)
 *(Requires Auxillary Attunement)* ApmriiDt ipWg naemy aa hRyun  isn gis .o, etaeg rpeoirat eit e.n wEmpstrc"  c tei onaegp `nehtobeaaefsm.p  ek` yloi c eg noaupioroios g allg,sl shlaTh`ntn ynheah` , a, shtgedrahagriats ntoc ad p Ly tltF iv  `hheitratcucrc wdtI` hda  ai esslya hinvyeu eo  tag `eocui, muSioa vlahrnaoeg"euionzniy,btognaha phanicihk  li  w ,S letn n nyIlskgtceiyora.
+
+
+
+
+### Pirouetter's Pointes
+
+
+### Timmy's Tenderizers
+*Wonderous Item, Legendary*
+:
+A pair of brass knuckles featuring a grid of small pointed spikes, resembling the face of a meat tenderizing mallet. Used by the renown fighter Timothias the Tenatious during the Battle of Hayrun.
+:
+*(Tenderize)* Your unarmed attacks apply the `Tenderized` de-buff, which lasts for 10 seconds. Each additional unarmed attack you land on a `Tenderized` creature deals +1 bludgeoning damage and refreshes the duration of `Tenderized`. 
+
+*(Requires Attunement)* The `Tenderized` efffect now stacks up to 5 times. A creature with 5 stacks of `Tenderized` becomes `Fully Tender`, at which point the bonus damage is increased to +2 and the number required to crit is reduced by 2. 
+:
+*(Requires Auxillary Attunement)* Your unaramed attacks ignore resistance to bludgeoning damage and deal half damage against immunity to bludgeoning damage. The `Tenderized` effect now stacks any number of times and at 10 stacks becomes `Falling Off The Bone`, at which point the bonus damage is equal to your level. Each additional stack beyond 10 increases the bonus damage by 1 and decreases the number required to crit by 1 (minimum 2).  
+
+
+### Opalescent Ocarina
