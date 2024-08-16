@@ -20,13 +20,15 @@ A black leather corset with the image of a raven embossed on the left shoulder. 
 
 
 
-### Pirouetter's Pointes
+### Pirouetter's Pointe Shoes
+*Wonderous Item, Legendary*
+:
 
 
 ### Timmy's Tenderizers
 *Wonderous Item, Legendary*
 :
-A pair of brass knuckles featuring a grid of small pointed spikes, resembling the face of a meat tenderizing mallet. Used by the renown fighter Timothias the Tenatious during the Battle of Hayrun.
+A pair of brass knuckles featuring a grid of small pointed spikes, resembling the face of a meat tenderizing mallet. Used by the renown fighter Timothias the Tenatious during the Battle of Hayrün.
 :
 *(Tenderize)* Your unarmed attacks apply the `Tenderized` de-buff, which lasts for 10 seconds. Each additional unarmed attack you land on a `Tenderized` creature deals +1 bludgeoning damage and refreshes the duration of `Tenderized`. 
 
@@ -35,4 +37,23 @@ A pair of brass knuckles featuring a grid of small pointed spikes, resembling th
 *(Requires Auxillary Attunement)* Your unaramed attacks ignore resistance to bludgeoning damage and deal half damage against immunity to bludgeoning damage. The `Tenderized` effect now stacks any number of times and at 10 stacks becomes `Falling Off The Bone`, at which point the bonus damage is equal to your level. Each additional stack beyond 10 increases the bonus damage by 1 and decreases the number required to crit by 1 (minimum 2).  
 
 
+
 ### Opalescent Ocarina
+*Blowgun, Legendary*
+:
+A glimmering white ocarina with highlights of turquoise and silver which is said to have been used by the Great Fairy Kaysa. It can be used as a blowgun by blowing while closing all finger holes to deal 1d4+2 poison damage. 
+:
+You can play tunes out of a Fairy's Songbook and each song you learn can be played once per long rest. 
+- *`Song of Chaos`*:  You trigger `Wild Magic`.
+- *`Song of Bonding`*: You cast `Beast Bond`.  
+:
+*(Requires Attunement)* 
+ - *`Song of Healing`*: Heal up to 4 creatures within 60 ft for a number of hit points equal to your level. 
+ - *`Song of Secrecy`*: You cast `Pass without Trace`. 
+ 
+ *(Requires Auxillary Attunement)*
+
+ The blowgun deals 1d6+4 damage and you learn the following songs. 
+  - *`Confusion`*: You cast `Confusion`
+ - *`Rocky Raccoon`*: You cast `Conjure Animals` to summon 8 raccoons 
+ - *`Dancing in the Moonlight`*: You cast `Moonbeam`
