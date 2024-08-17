@@ -61,3 +61,30 @@
    - The entire party performs the electric slide, which adequately convinces Alyona that they aren't loyal to Varinn
    - Alyona invites them to meet her at the Lucky Deer Lodge where she will explain what this is all about  
   - After the telepathic voice stops talking, a doe runs past them toward the cabin and clears the river in one jump
+  
+  <div style="page-break-after:always">&nbsp;</div>
+
+
+# Session 3
+- The party makes there way to the Lucky Deer Lodge where they meet Alyona. She tells them that
+  -  Zarunites are human supremecists
+  - Varinn can force people to do his will with the Left Eye of Zarus, and he can switch people's bodies with the Right Eye of Zarus
+  - She used to be a half-elf, but Varinn helped her swap bodies to become human
+  - After finding out the inner workings of Zaridel, she became disillusioned with Zarunism and wants her original body back. 
+  - To do so, she needs you to go to the Archive of Auxillary Attunement to learn how to fully control the Left Eye of Zarus.
+  - There is also thhe Mystic Museum in that region, and getting more magical items would help to defeat Varinn
+  - She cultivates liquorice root in order to use Haste and gives each party member one piece of liquorice root. 
+
+- Thalor convinces Alyona to give them an animal guide: a black bear named Jeremy Bearimy 
+- Battle with Zarunites
+  - The party encounters a group of 3 Zarunites who attack Jeremy.
+  -  After defeating them, the party finds that they were transporting a magical corset along with a note indicating that more magical items are being transported to the Mystic Museum.
+- Owen's Outpost
+  -  The party searches for honey to feed Jeremy since he was injured in the battle. 
+  -  They manage to get some from a shop after Moosra threatens to burn the place down and Thalor helps do the dishes.
+  -  Kebo-Wan finds out from a surprisingly feisty old man named Timothias that a there's a hermit in the town named Kai Shadowthorn who has been to the museum.
+  -  Kai is reluctant to let the party inside, but Moosra charms him
+  -  Kai is acting crazy and is hard to get information out of, but the party finds his journal and a map to the library/museum as well as 3 jars of honey by searching his hut.
+  -  Moosra gives Kai liquorice root so that he can cast Haste on himself. 
+  -  Suddenly, he becomes lucid and warns that magical items can have negative effects if used without properly attuning
+  
