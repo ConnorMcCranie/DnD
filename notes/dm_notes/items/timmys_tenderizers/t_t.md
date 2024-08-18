@@ -1,7 +1,7 @@
 ### Timmy's Tenderizers
 *Wonderous Item, Legendary*
 :
-A pair of brass knuckles featuring a grid of small pointed spikes, resembling the face of a meat tenderizing mallet. Used by the renown fighter Timothias the Tenatious during the Battle of Hayrün.
+A pair of brass knuckles featuring a grid of small pointed spikes, resembling the face of a meat tenderizing mallet. Used by the renown fighter Timothias the Tenatious during the Battle of Hærūn.
 :
 *(Tenderize)* Your unarmed attacks apply the `Tenderized` de-buff, which lasts for 10 seconds. Each additional unarmed attack you land on a `Tenderized` creature deals +1 bludgeoning damage and refreshes the duration of `Tenderized`. 
 
