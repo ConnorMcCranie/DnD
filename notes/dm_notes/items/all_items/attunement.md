@@ -70,4 +70,4 @@ If worn without attunement, the Tenderizer's seem to weigh more and more with ev
   - They weigh 10 lbs each and impose -3 to hit, +2 dmg 
 
 ### Auxillary Attunement
-
+-  To obtain auxillary attunement, you must train at Tommy's Dojo & BBQ
