@@ -46,12 +46,12 @@ Will bind your fate with magic’s tether.
 - There is no Wisdom saving throw at midnight anymore and you automatically succeed the Int saving throw when using Contact Other Plane to contact the Raven Queen.
     
 **clue for players:** 
-To gain the most from corset's grace,
+>To gain the most from corset's grace,
 You'll sign the contract, find your place.
 A quill from Raven’s feather made,
 Ensures your magic’s never swayed.
-
-In Shadowfell, a fortress deep,
+>
+>In Shadowfell, a fortress deep,
 Her memory you must not weep.
 There lies the contract’s secret power,
 Atop the highest, darkest tower.
@@ -65,44 +65,118 @@ If the user equips/uses the Opalescent Ocarina without being attuned, one of the
 
   
 **clue for players:** 
+>In a world where magic flows,
+and opalescent light bestows.
+A melody, so rare and true,
+The song you play which then plays you.
+>
+> If used without the charm’s embrace,
+Then Chaos might just find its place.
+Wild magic’s surge, what does it do?
+A blessing, curse, or both ensue.
+.
 ### Attunement
 - To attune you have to spend a short rest learning from Kaysa's Songbook
 - Kaysa's Songbook can be found in the Mystic Museum
+- Once attuned, wild animals are fiendly to you and seek you out: you have advantage on animal handling checks
 
   
 **clue for players:** 
+> To navigate the tides of madness,
+> You first must study verse and chorus.
+> A fairy's songbook old and rumored
+> Holds secrets whispered, softly bloomed.
+>
+>Within its pages, truth is spun,
+A melody for all to come.
+With Kaysa's guidance, chaos yields,
+What once was hidden, now revealed.
 
 ### Auxillary Attunement
-- You must find Kaysa near the Gallant Grasslands
-- She will add more songs to the songbook in exchange for (---insert quest here---)
+- To achieve the maximum level of attunement with the ocarina, You must find the fairy Kaysa near the Gallant Grasslands
+- She will add more songs to the songbook in exchange for restoring harmony to the Enchanted Grove, a sacred forest plagued by discord.
+  
+From chatgpt  (probably needs tuning):
+Objective: To learn the ancient songs of the fairy, you must 
 
+Background: The Enchanted Grove was once a place of serene beauty and magical harmony, where fairy songs thrived. But recently, the grove has fallen into disarray. The ancient fairy's songs have been lost to the winds, and the once-vibrant forest is now overshadowed by chaos.
+
+Steps:
+
+1. Find the Grove: Venture to the Enchanted Grove, a mystical forest known for its lush beauty and magical creatures. The grove lies beyond the Misty Glade, where the air shimmers with enchantment.
+
+2. Gather the Fractured Echoes: Scattered throughout the grove are fragments of the fairy's lost songs. These echoes have taken physical form as enchanted crystals. Collect these crystals, which resonate with the lost melodies of the grove.
+
+3. Calm the Troubled Spirits: The grove is plagued by restless spirits who disrupt the natural balance. Use your skills to calm these spirits through acts of compassion and understanding. This will help restore some of the grove’s natural harmony.
+
+4. Restore the Song Trees: In the heart of the grove stand ancient Song Trees, whose magical melodies have been silenced. Using the collected echoes, perform a ritual at each tree to restore its voice. This ritual involves aligning the echoes in a specific pattern and playing a simple tune to awaken the tree’s magic.
+
+5. Confront the Source of Discord: Deep within the grove lies a corrupted spirit that has been feeding off the grove’s discord. Defeat or placate this spirit to remove its influence from the forest. This task may involve a challenge of wit or combat, depending on the spirit’s nature.
+
+6. Learn the Fairy’s Songs: With the grove restored and harmony reestablished, the ancient fairy will reveal herself. As a reward, she will teach you her songs. These melodies are not just music but are imbued with powerful magic that connects you to the natural world.
   
 **clue for players:** 
-
+> To reach the ocarina’s height,
+Seek Kaysa where the grasslands light.
+And in the gallant wide embrace,
+You'll find the fairy’s gentle grace.
+>
+>To gain the deepest bond of all,
+Restore the grove where shadows fall.
+Where once enchanted, pure and bright,
+Now suffers from the discord’s blight.
 # Pirouetter's Pointe Shoes Attunement
 
 ### Without Attunement
-- periodically must roll Dex save or else the shoes start dancing of their own accord
+- If you wear the magical dance shoes without having properly attuned to them, you must periodically must roll Dex save or else the shoes start dancing of their own accord. 
+- While the shoes are dancing, you have no control over your own movement
 
   
 **clue for players:** 
+>In magic shoes of dancing grace,
+A wondrous charm you may embrace.
+But heed the tale of caution true,
+Attunement's needed through and through.
+>
+> Without the bond, these shoes take flight,
+They yearn to be in the spotlight .
+With poise, they'll jump and twirl and spin,
+Regardless of the feet within.
 
 ### Attunement
-- Spend short rest studying the dance-fighting forms in Derek's Dance Diary
+- In order to attune to the magic dance shoes, you must study the dance-fighting forms in Derek's Dance Diary
 - Derek's Dance Diary is found in the Mystic Museum
+- Derek is a gnome who mastered the art of dance-fighting and founded a school to teach it.
 
   
 **clue for players:** 
+>Attuning to the magic shoes,
+The proper form you'll have to use.
+The right technique is quite elusive
+A certain source would be condusive.
+>
+> A gnome whose name does start with "D",
+> His diary must hold the key.
+> He learned that dance is naught but fighting,
+> While putting all his thoughts to writing.
 
 
 ### Auxillary Attunement
-- You must attend a seminar on dance fighting at Derek's Dance Academy for Gifted Fighters
+- To reach maximum attunement, you must attend a seminar on dance fighting at Derek's Dance Academy for Gifted Fighters
 - The seminar is *technically* free, but they give you a hard sell to buy a timeshare. 
   > \- Cuz your friends don't dance and if they don't dance then they ain't no friends of mine
 
     
 **clue for players:** 
-
+> To reach the height of dancing power,
+A certain school you'll have to scour.
+That's where a gnome displays his art,
+Where dance and fighting both impart.
+> 
+> They'll say, "The lesson's free, of course!"
+> But best beware pervasive force.
+> Unless you'd like to stay there longer,
+> Then pray your power o' will is stronger.
 
 # Timmy's Tenderizers Attunement
 
@@ -116,7 +190,15 @@ If worn without attunement, the Tenderizer's seem to weigh more and more with ev
 
   
 **clue for players:** 
-
+> If worn without attunement’s touch,
+The Tenderizer's weight will clutch,
+Their mass will rise with every blow,
+The burden rises, slow but sure.
+>
+> At first, your strikes will lose their aim,
+> And then your movement starts to fade.
+> Each step a struggle in the fight,
+> With memories that have a bite.
 ### Attunement
 - To attune to the Tenderizers, you need to wear the Tenderizer Trainers for at least 24 hours and then fight Timothias 1v1 while wearing them
 - The Tenderizer Trainers can be obtained from the Mystic Museum 
@@ -124,9 +206,44 @@ If worn without attunement, the Tenderizer's seem to weigh more and more with ev
 
   
 **clue for players:** 
-
+> To learn to punch without such straining,
+Takes preparation, time for training.
+First, don the Trainers, worn with care,
+They're stored with other items rare.
+>
+> When worn at night and worn in day,
+> Become accustomed to their weight.
+> Then face their their owner, brave and bold,
+> With only fists, your skills unfold.
 ### Auxillary Attunement
--  To obtain auxillary attunement, you must train at Tommy's Dojo & BBQ
+-  To obtain the maxximum level of attunement, you must train at Tommy's Dojo & BBQ
+-  To gain entrace to the dojo in the back room, you'll need to say the secret passphrase when ordering BBQ
 
   
 **clue for players:** 
+> There's still more power to be won,
+> A feast prepared by his grandson.
+> A place where meat is always tender,
+> And fighters fight but don't surrender.
+>
+> It's there your final training waits,
+> Both victory and brisket taste.
+> Your fists will fly in a barrage,
+> Just like a Rocky-esque montage.
+
+# Eyes of Zarus
+
+### Without Attunement
+- Without attunement, the Left Eye of Zarus can be used to scry vision from a great distance.
+- Without attunement, the Right Eye of Zarus can be used to read the minds of others
+- If either the Left or Right Eye of Zarus is used without attunement, the user will lose a portion of vision in their left or right eye, eventually becoming blind
+
+### Attunement
+- In order to attune to the eyes of Zarus, one must participate in the initiating ritual to convert to Zarunism. 
+- If attuned, the Left Eye of Zarus allows you to talk telepathically with anyone that you scry
+- If attuned, the Right Eye of Zarus allows you cast Hold Person, paralysing the target 
+
+### Auxillary Attunement
+- When fully attuned to the Left Eye of Zarus, one can charm anyone they see, forcing them to do their will.
+- When fully attuned to the Right Eye of Zarus, one can swap bodies with anyone, exchanging each consciousness to the other's body.
+- In order to attain maximal attunement to each Eye of Zarus, one must cut out their own corresponding eye and sacrifice it to Zarus
