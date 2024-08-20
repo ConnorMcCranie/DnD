@@ -71,7 +71,7 @@
   - Varinn can force people to do his will with the Left Eye of Zarus, and he can switch people's bodies with the Right Eye of Zarus
   - She used to be a half-elf, but Varinn helped her swap bodies to become human
   - After finding out the inner workings of Zaridel, she became disillusioned with Zarunism and wants her original body back. 
-  - To do so, she needs you to go to the Archive of Auxillary Attunement to learn how to fully control the Left Eye of Zarus.
+  - To do so, she needs you to go to the Archive of Auxiliary Attunement to learn how to fully control the Left Eye of Zarus.
   - There is also thhe Mystic Museum in that region, and getting more magical items would help to defeat Varinn
   - She cultivates liquorice root in order to use Haste and gives each party member one piece of liquorice root. 
 

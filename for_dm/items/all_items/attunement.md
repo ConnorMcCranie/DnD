@@ -40,8 +40,8 @@ The Raven's Queen most precious feather,
 Will bind your fate with magic’s tether.
 
 
-### Auxillary Attunement
-- To obtain Auxillary Attunement, you must sign the *`Corvine Contract`* using a quill made of the `Raven Queen's Feather`.
+### Auxiliary Attunement
+- To obtain Auxiliary Attunement, you must sign the *`Corvine Contract`* using a quill made of the `Raven Queen's Feather`.
 - The `Corvine Contract` can be found at the the `Fortress of Memories` in Shadowfell.
 - There is no Wisdom saving throw at midnight anymore and you automatically succeed the Int saving throw when using Contact Other Plane to contact the Raven Queen.
     
@@ -92,7 +92,7 @@ A melody for all to come.
 With Kaysa's guidance, chaos yields,
 What once was hidden, now revealed.
 
-### Auxillary Attunement
+### Auxiliary Attunement
 - To achieve the maximum level of attunement with the ocarina, You must find the fairy Kaysa near the Gallant Grasslands
 - She will add more songs to the songbook in exchange for restoring harmony to the Enchanted Grove, a sacred forest plagued by discord.
   
@@ -161,7 +161,7 @@ A certain source would be condusive.
 > While putting all his thoughts to writing.
 
 
-### Auxillary Attunement
+### Auxiliary Attunement
 - To reach maximum attunement, you must attend a seminar on dance fighting at Derek's Dance Academy for Gifted Fighters
 - The seminar is *technically* free, but they give you a hard sell to buy a timeshare. 
   > \- Cuz your friends don't dance and if they don't dance then they ain't no friends of mine
@@ -215,7 +215,7 @@ They're stored with other items rare.
 > Become accustomed to their weight.
 > Then face their their owner, brave and bold,
 > With only fists, your skills unfold.
-### Auxillary Attunement
+### Auxiliary Attunement
 -  To obtain the maxximum level of attunement, you must train at Tommy's Dojo & BBQ
 -  To gain entrace to the dojo in the back room, you'll need to say the secret passphrase when ordering BBQ
 
@@ -231,6 +231,19 @@ They're stored with other items rare.
 > Your fists will fly in a barrage,
 > Just like a Rocky-esque montage.
 
+# Nevermore Necklace
+
+### Without Attunement
+
+- Without attunement, wearing the Nevermore Necklace puts the user under the effect of Foresight, but also imposes short term memory loss
+- Therefore, the user is cursed to always see the immediate future but immediately forget it
+### Attunement
+- The Nevermore Necklace can only be used as the Raven Queen sees fit.
+- In order to attune to the Nevermore Necklace, one must pray to the Raven Queen while in the Shadowfell
+### Auxiliary Attunement 
+- The maximum power of is only attained if the user is willing to completely let go of their own sense of self and devote their entire existence to the Raven Queen
+- To obtain auxiliary attunement to the Nevermore Necklace, one must completely erase all memories of their entire life (This can be done via the 9th level spell Modify Memory).
+
 # Eyes of Zarus
 
 ### Without Attunement
@@ -243,7 +256,7 @@ They're stored with other items rare.
 - If attuned, the Left Eye of Zarus allows you to talk telepathically with anyone that you scry
 - If attuned, the Right Eye of Zarus allows you cast Hold Person, paralysing the target 
 
-### Auxillary Attunement
+### Auxiliary Attunement
 - When fully attuned to the Left Eye of Zarus, one can charm anyone they see, forcing them to do their will.
 - When fully attuned to the Right Eye of Zarus, one can swap bodies with anyone, exchanging each consciousness to the other's body.
 - In order to attain maximal attunement to each Eye of Zarus, one must cut out their own corresponding eye and sacrifice it to Zarus

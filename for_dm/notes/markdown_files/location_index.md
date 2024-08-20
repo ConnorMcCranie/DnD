@@ -29,7 +29,7 @@ Main attraction is the large, red and blue cathedral which houses the Eyes of Za
 
 ##### Lavender Library
 - Library devoted to the study of the arcane, located 3 days journey west of Zaridel
-- Home of the Archive of Auxillary Attunement, which contains information about certain magical items for which attunement requires unconventional means
+- Home of the Archive of Auxiliary Attunement, which contains information about certain magical items for which attunement requires unconventional means
 
 ##### Mystic Museum
 - Museum which safely holds dangerous magical items

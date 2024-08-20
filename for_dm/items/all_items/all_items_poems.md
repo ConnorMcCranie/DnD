@@ -1,4 +1,4 @@
-Poem describing Timmy's Tenderizer's found in Archive of Auxillary Attunement:
+Poem describing Timmy's Tenderizer's found in Archive of Auxiliary Attunement:
 
 > If worn without attunement’s touch,
 > 
@@ -54,7 +54,7 @@ Poem describing Timmy's Tenderizer's found in Archive of Auxillary Attunement:
 
 <div style="page-break-after:always">&nbsp;</div>
 
-Poem describing Corvine Corset found in Archive of Auxillary Attunement:
+Poem describing Corvine Corset found in Archive of Auxiliary Attunement:
 
 > In realms where magic weaves its strand,
 > 
@@ -102,7 +102,7 @@ Poem describing Corvine Corset found in Archive of Auxillary Attunement:
 
 <div style="page-break-after:always">&nbsp;</div>
 
-Poem describing Opalescent Ocarina found in Archive of Auxillary Attunement:
+Poem describing Opalescent Ocarina found in Archive of Auxiliary Attunement:
 
 > In a world where magic flows,
 >
@@ -158,7 +158,7 @@ Poem describing Opalescent Ocarina found in Archive of Auxillary Attunement:
 
 <div style="page-break-after:always">&nbsp;</div>
 
-Poem describing Pirouetter's Pointe Shoes found in Archive of Auxillary Attunement:
+Poem describing Pirouetter's Pointe Shoes found in Archive of Auxiliary Attunement:
 > In magic shoes of dancing grace,
 >
 > A wondrous charm you may embrace.
@@ -213,7 +213,7 @@ Poem describing Pirouetter's Pointe Shoes found in Archive of Auxillary Attuneme
 
 <div style="page-break-after:always">&nbsp;</div>
 
-Poem describing the Eyes of Zarus found in Archive of Auxillary Attunement:
+Poem describing the Eyes of Zarus found in Archive of Auxiliary Attunement:
 
 > In the time of ancient lore, where secrets dare not tread.
 > There lie the Eyes of Zarus, with power widely spread.
