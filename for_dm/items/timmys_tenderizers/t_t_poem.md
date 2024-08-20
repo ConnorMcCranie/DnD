@@ -1,4 +1,4 @@
-Poem describing Timmy's Tenderizer's found in Archive of Auxillary Attunement:
+Poem describing Timmy's Tenderizer's found in Archive of Auxiliary Attunement:
 
 > If worn without attunement’s touch,
 The Tenderizer's weight will clutch,

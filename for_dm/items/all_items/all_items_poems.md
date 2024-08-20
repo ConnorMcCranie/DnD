@@ -213,6 +213,57 @@ Poem describing Pirouetter's Pointe Shoes found in Archive of Auxiliary Attuneme
 
 <div style="page-break-after:always">&nbsp;</div>
 
+Poem describing the Nevermore Necklace found in Archive of Auxiliary Attunement:
+> Without its claim of shadowed grace,
+> 
+> It offers glimpses of the chase,
+> 
+> Yet every sight is swiftly lost,
+> 
+> A fleeting moment, tempest-tossed.
+>
+>&nbsp;
+>
+> To bear its power, one must kneel,
+> 
+> In Shadowfell, where dark is real,
+> 
+> Before the Raven Queen, implore,
+> 
+> And bind oneself forevermore.
+>
+>&nbsp;
+>
+> To see with eyes of future’s lore,
+> 
+> Yet lose the past forevermore,
+> 
+> One must erase all traces known,
+> 
+> To serve the Queen, a fate unshown.
+>
+>&nbsp;
+>
+> With every memory laid to rest,
+> 
+> The necklace grants its full behest,
+> 
+> A sacrifice of self to gain,
+> 
+> The future’s whispers in darkened vein.
+>
+>&nbsp;
+>
+> In realms where shadow’s secrets hold,
+> 
+> The Nevermore’s true might unfolds,
+> 
+> A path of darkness, deep and wide,
+> 
+> Where futures dance and pasts subside.
+
+<div style="page-break-after:always">&nbsp;</div>
+
 Poem describing the Eyes of Zarus found in Archive of Auxiliary Attunement:
 
 > In the time of ancient lore, where secrets dare not tread.
@@ -253,4 +304,3 @@ Poem describing the Eyes of Zarus found in Archive of Auxiliary Attunement:
 > To carve out part of who you are, to touch the great arcane.
 > But in the end it's only fair, this is the will of Zarus.
 > A trade of one eye for another, to sit upon the dais.
-> 
