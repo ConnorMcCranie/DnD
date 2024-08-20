@@ -5,7 +5,7 @@
 
 <br><br><br>
 
-> To demonstrate sufficient knowledge,
+> To demonstrate sufficient knowledge, 
 > First once, then twice, then thrice you'll choose.
 > But every failure leads to fire,
 > From fire you must start anew. 
