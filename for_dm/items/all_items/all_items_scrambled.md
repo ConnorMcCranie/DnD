@@ -75,14 +75,15 @@ A pair of brass knuckles featuring a grid of small pointed spikes, resembling th
 
 :::::::
 
-*(Requires Attunement)* Ntr rib ena acsdw e sstnktiu+z YamIonnm n 5r coct f5 h etlnetkraiasw h fa swd is.Ti `n e T ackinedo`. coihtfr,ctce  myaehnef izgra dueeT u2edub,assoteFraeeaemttdoArt `uhdeftttinca  i` seuocese eiapenkl `t  sre nept` euoi rdht rcsdoot sadgro.
+*(Requires Attunement)* Your unaramed attacks ignore resistance. In addition, the `Tenderized` efffect now stacks up to 5 times. A creature with 5 stacks of `Tenderized` becomes `Fully Tender`, at which point the bonus damage on further attacks is increased to +2.
 :
-*(Requires Auxiliary Attunement)*  Your unarmed attacks deal half damage against immunity. The `Tenderized` effect now stacks any number of times and at 10 stacks becomes `Falling Off The Bone`: the bonus damage is increased to +3 and the number required to crit is 18. For each additional 4 stacks beyond 10, the bonus damage is increased by 1 and the number required to crit is decreased by 1 (minimum 2).  
+*(Requires Auxiliary Attunement)*  A tau( fo1mae loaqda u sia ct  O deT `srsdlyrbqon makganis` t knt uan aeroien1dcidy,t eheaem   beduaa redf nyr koomdtk tte f1iedy `ceaunrdmi` ado iueeetF  sb.ienrdonim cw otht3dtszmhtB0mir  c   ` rc`ere tfu:hogeucaei+rs rtet 2lssoin)alenhgisuenhnaiheta i nosa.0 fsescun T ydamdFrdbec sm4s   beiocas  s   eeaneagn  renu1be nmr m1 ig nYcaeia.  
+
 
 ::::::::
 *(Requires Attunement)* Ntr rib ena acsdw e sstnktiu+z YamIonnm n 5r coct f5 h etlnetkraiasw h fa swd is.Ti `n e T ackinedo`. coihtfr,ctce  myaehnef izgra dueeT u2edub,assoteFraeeaemttdoArt `uhdeftttinca  i` seuocese eiapenkl `t  sre nept` euoi rdht rcsdoot sadgro.
 :
-*(Requires Auxiliary Attunement)*  a tau( fo1mae loaqda u sia ct  O deT `srsdlyrbqon makganis` t knt uan aeroien1dcidy,t eheaem   beduaa redf nyr koomdtk tte f1iedy `ceaunrdmi` ado iueeetF  sb.ienrdonim cw otht3dtszmhtB0mir  c   ` rc`ere tfu:hogeucaei+rs rtet 2lssoin)alenhgisuenhnaiheta i nosa.0 fsescun T ydamdFrdbec sm4s   beiocas  s   eeaneagn  renu1be nmr m1 ig nYcaeia.  
+*(Requires Auxiliary Attunement)* A tau( fo1mae loaqda u sia ct  O deT `srsdlyrbqon makganis` t knt uan aeroien1dcidy,t eheaem   beduaa redf nyr koomdtk tte f1iedy `ceaunrdmi` ado iueeetF  sb.ienrdonim cw otht3dtszmhtB0mir  c   ` rc`ere tfu:hogeucaei+rs rtet 2lssoin)alenhgisuenhnaiheta i nosa.0 fsescun T ydamdFrdbec sm4s   beiocas  s   eeaneagn  renu1be nmr m1 ig nYcaeia.  
 
 \page
 ### Opalescent Ocarina
@@ -138,16 +139,16 @@ You gain +2 Animal Handling. In addition, you can play the `Song of Chaos` once 
  - *`goSeefo nc Scry`*: ssY iusteaa`cttoP wcra uo Th`. 
  
  *(Requires Auxiliary Attunement)*
-
- The blowgun deals 1d6+4 damage and the following songs are added to Kaysa's Songbook:
-  - *`Confusion`*: You cast `Confusion`
- - *`Rocky Raccoon`*: You cast `Conjure Animals` to summon raccoons 
- - *`Dancing in the Moonlight`*: You cast `Moonbeam`
+ 
+ a ash uegsn ew nallo s oengoeansb6ior Sdgsby motadTdlfdK ' 1he ak4dnaddw eglto go+oa:
+  - *`Csofonuni`*: `Cucif`n aoosYtu son
+ - *`cknoRoyoc Rca`*: mnauatnCAmrcsnso olcrstuooao cmj e u`n Y si`o 
+ - *`gni  MnnonhoDegia ttcihl`*: oYso o mctanM`beua`
 :::
-*(Requires Attunement)*  ot gy oKuu ogpoeonssnscokrm 'opafrl bnnYa lae  ys 3g s raptSo:
- - *`Snodfg og niBon`*: uYas`nB`o  tBascdtoe 
- - *`aHSelfin gongo `*: t  ifeu4uae paioo hatuert6 elrb  n orosiqHtriv u ue rmofe hslc no  f0ttlenyp  tlwa. 
- - *`goSeefo nc Scry`*: ssY iusteaa`cttoP wcra uo Th`. 
+*(Requires Attunement)*  You can play up to 3 songs per long rest from Kaysa's Songbook:
+ - *`Song of Bonding`*: You cast `Beast Bond`
+ - *`Song of Healing`*: Heal up to 4 creatures within 60 ft for a number of hit points equal to your level. 
+ - *`Song of Secrecy`*: You cast `Pass without Trace`. 
  
  *(Requires Auxiliary Attunement)*
  
@@ -172,7 +173,7 @@ A pair of ballerina's shoes which give the wearer dancing ability beyond what is
 :
 You gain +1 Acrobatics and +1 Performance whenever you are unarmed or wielding `Dance Weapons` (*Whip, Baton, Ribbon, Pom-Pom, Hula Hoop, Poi*).
 :
-*(Requires Attunement)* `geg nFhiiDtnac`: rDhegr aoaaocyUeri `tndyntr+nyicanae` Sen SSmdao hakroet)s oklwn a )  erdnmafsona arucir ad t caPWbtaeteoeaos e( u fe  r,tn PaD f t kWn eao myeimlf,erA vtdu f eadeDia.horc oao  p/(.
+*(Requires Attunement)*  `Dance Fighting`: Whenever you make an `Unarmed Strike` or an attack with a `Dance Weapon`, you may add Acrobatics to your attack roll (instead of Str/Dex+Proficiency). When rolling for damage, you may add Performance (instead of Str/Dex).
 :::::
 ### Pirouetter's Pointe Shoes
 *Clothing, Artifact*
