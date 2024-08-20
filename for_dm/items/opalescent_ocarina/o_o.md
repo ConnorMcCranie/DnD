@@ -15,5 +15,5 @@ You can play tunes out of a Fairy's Songbook and each song you learn can be play
 
  The blowgun deals 1d6+4 damage and you learn the following songs. 
   - *`Confusion`*: You cast `Confusion`
- - *`Rocky Raccoon`*: You cast `Conjure Animals` to summon 8 raccoons 
+ - *`Rocky Raccoon`*: You cast `Conjure Animals` to summon raccoons 
  - *`Dancing in the Moonlight`*: You cast `Moonbeam`
