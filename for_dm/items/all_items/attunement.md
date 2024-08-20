@@ -56,6 +56,8 @@ Her memory you must not weep.
 There lies the contract’s secret power,
 Atop the highest, darkest tower.
 
+<div style="page-break-after:always">&nbsp;</div>
+
 # Opalescent Ocarine Attunement
 
 ### Without Attunement
@@ -96,7 +98,7 @@ What once was hidden, now revealed.
 - To achieve the maximum level of attunement with the ocarina, You must find the fairy Kaysa near the Gallant Grasslands
 - She will add more songs to the songbook in exchange for restoring harmony to the Enchanted Grove, a sacred forest plagued by discord.
   
-From chatgpt  (probably needs tuning):
+(From gpt, probably needs tuning):
 Objective: To learn the ancient songs of the fairy, you must 
 
 Background: The Enchanted Grove was once a place of serene beauty and magical harmony, where fairy songs thrived. But recently, the grove has fallen into disarray. The ancient fairy's songs have been lost to the winds, and the once-vibrant forest is now overshadowed by chaos.
@@ -125,6 +127,10 @@ You'll find the fairy’s gentle grace.
 Restore the grove where shadows fall.
 Where once enchanted, pure and bright,
 Now suffers from the discord’s blight.
+
+
+<div style="page-break-after:always">&nbsp;</div>
+
 # Pirouetter's Pointe Shoes Attunement
 
 ### Without Attunement
@@ -177,6 +183,9 @@ Where dance and fighting both impart.
 > But best beware pervasive force.
 > Unless you'd like to stay there longer,
 > Then pray your power o' will is stronger.
+
+
+<div style="page-break-after:always">&nbsp;</div>
 
 # Timmy's Tenderizers Attunement
 
@@ -231,6 +240,9 @@ They're stored with other items rare.
 > Your fists will fly in a barrage,
 > Just like a Rocky-esque montage.
 
+
+<div style="page-break-after:always">&nbsp;</div>
+
 # Nevermore Necklace
 
 ### Without Attunement
@@ -243,6 +255,9 @@ They're stored with other items rare.
 ### Auxiliary Attunement 
 - The maximum power of is only attained if the user is willing to completely let go of their own sense of self and devote their entire existence to the Raven Queen
 - To obtain auxiliary attunement to the Nevermore Necklace, one must completely erase all memories of their entire life (This can be done via the 9th level spell Modify Memory).
+
+
+<div style="page-break-after:always">&nbsp;</div>
 
 # Eyes of Zarus
 
