@@ -12,6 +12,12 @@
 - Average height, somewhat chubby human with pale skin, black hair and brown eyes
 - Greets the party at the entrance to Zaridel
 - Reports to Varinn when the Left Eye of Magnus is stolen
+  
+#### Brother Markus
+
+- Leader of platoon found in the Lavender Labyrinth
+- Said that there was a shortcut to the Mystic Museum via the Lavender Library
+- Despite surrendering, he was killed in battle and offered as food to Jeremy
 
 ##### Brother Marten
   
@@ -35,6 +41,11 @@
 
 - Varinn's grandfather
 - Enjoyed hunting and reportedly wore an eyepatch due to a hunting accident
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ##### Timothias
 
