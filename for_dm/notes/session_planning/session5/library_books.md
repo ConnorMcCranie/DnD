@@ -25,7 +25,7 @@
 (Perc DC 20, Invest. DC 18)
     - A tattered diary belonging to a gnome named Derek. Derek chronicles his arduous journey mastering the art of dance-fighting and the backlash he faced when trying to found a school teaching his signature style. Many of his signature forms and training methods are described in detail.
    &nbsp;
-- **The Rhythm of Battle: The History of Dance-Fighting**
+- **Rhythm of Battle: The History of Dance-Fighting**
 (Perc DC 18, Invest. DC 12 )
   - A chronological outline of the innovative art of dance-fighting. While this technique was originally scorned and considered inferior to traditional martial arts, the modern day fusion of dance with fighting was pioneered by a determined gnome named Derek, who refused to give up in the face of ridicule. 
   - Contents:
