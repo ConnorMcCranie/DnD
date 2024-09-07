@@ -275,3 +275,18 @@ They're stored with other items rare.
 - When fully attuned to the Left Eye of Zarus, one can charm anyone they see, forcing them to do their will.
 - When fully attuned to the Right Eye of Zarus, one can swap bodies with anyone, exchanging each consciousness to the other's body.
 - In order to attain maximal attunement to each Eye of Zarus, one must cut out their own corresponding eye and sacrifice it to Zarus
+
+
+
+<div style="page-break-after:always">&nbsp;</div>
+
+# Crafty Crossbow
+There is a prophecy that someone from the village will use an enchanted item will bring chaos/trouble, which is why Strad's village was supersticious against it. Reflective beings from the Mirror Realm are the cause of his village dissappearing and the source of the bow's power.  But the prophecy is 'reversed' in the mirror realm, meaning that the enchanted item will bring balance. Every time Strad uses the bow, he gets a flashback/vision of the relevant backstory and becomes briefly incapacitated. To get to the mirror realm, you have to walk through a mirror while somehow avoiding running into your own reflection (idea: cast invisibility, blink, etherealness) The bow is in vault 31 of the mystic museum, 
+possible arrows:
+-rope arrow
+-light arrow
+-scrying arrow
+-bouncing arrow
+-tracking arrow
+-teleporting arrow
+-identifying arrow (determine resistances/vulnerabilities)
