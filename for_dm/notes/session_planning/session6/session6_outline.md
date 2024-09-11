@@ -6,9 +6,19 @@
 - Encounter with Reflective Being + Visions to start Strad's Quest
 - Pointe Shoes run off (with Thalor attached DC20) to vault 420(or 69?)
 - Need to use Scroll of Knock to open the vault
-- Contains Kaysa's Songbook and Derek's Dance Diary (+other items for Varrin's backstory?)
+- Contains Kaysa's Songbook and Derek's Dance Diary (+other items for Varrin's backstory? + automoton guards?)
 - Trying to rob more vaults or exiting the museum encounters guards but fairy comes out of book to play ocarina and causes chaos
 - Alyona checks back in "I WAS GONE FOR 20 MINUTES WTF HAPPENED??"
+
+### Details:
+1. **Crossbow Vault**
+   - Vault opens to a room with a single podium holding the Cunning Crossbow and mirrors on all walls
+   -  As you approach, you notice an extra figure in the reflection who picks up the crossbow, causing the crossbow to lift in the air (but no one appears to be holding it IRL). The hooded figure in the reflection aims for the mirror and fires a bolt made of light, causing his body to appear IRL.
+   -  Reflective Being fires Scattering Arrow at party to intiate combat.
+   -  One he gets to half HP, casts Mirror Image. At 1/4 hp, Cunning Crossbow self-reflects to become 2 hand crossbows. 
+   -  Upon touching the bow, Strad sees vision:
+      -  His parents are talking to village elder.
+      -  Elder warns them to discourage artificing. They protest that it's fine, but elder insists that there are forces at play beyond their knowledge. There is a prophecy that a child from this village would bring chaos with  magical items and history will repeat itself. For the good of the village, everyone must nip the curiosity about enchanting items in the bud. 
 
 ### Possible courses:
 - Investigate Fairy, Dance, or Punch quest: 
