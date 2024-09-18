@@ -5,8 +5,9 @@
 
 A sleek, silvery crossbow which is so smooth and glossy that it seems to be made of liquid metal, though it is cool to the touch and holds its shape like a solid.
 :
-
-*(Arcane Ammunition)* The magic imbued in this crossbow gives it the power to generate it's own unique ammunition, seemingly from thin air. You have 2 charges of `Arcane Ammunition`, which replenish on a long rest. When making an attack with the Cunning Crossbow, you may spend charges of `Arcane Ammunition` to shoot one of the following arrows.
+*(Infusable)* Despite being magical, this item can be the target of `Infuse Item`.
+:
+*(Arcane Ammunition)*  The magic imbued in this crossbow gives it the power infuse magic into its ammunition, giving it unique properties. You have 2 charges of `Arcane Ammunition`, which replenish on a long rest. When making an attack with the Cunning Crossbow, you may spend charges of `Arcane Ammunition` to shoot one of the following arrows.
 \column
 :
  None of these arrows inflict damage to their target, and their effect disappears after 1 hour or if another charge of `Arcance Ammunition` is used.
