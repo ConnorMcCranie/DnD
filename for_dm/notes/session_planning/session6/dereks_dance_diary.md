@@ -13,7 +13,7 @@ Dear Diary,
 
 Signing off,
 -Derek
-___
+___ 
 Dear Diary,
 
 &nbsp;&nbsp;&nbsp;&nbsp; Today was a mixed bag. I tried to combine my dance moves with a few combat techniques I learned from my classmates. They just laughed when I called it “dance fighting.” One of them even said I’d be better off twirling in a tutu! I’ll show them! Tomorrow, I’ll perfect my “Spin and Slash” move. Who knew a pirouette could pack a punch?
