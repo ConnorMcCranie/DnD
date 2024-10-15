@@ -111,3 +111,41 @@
     - Despite their surrender, Vaaneth decides to kill them anyways
     - A chest they were transporting contains the remaining reward items and some gold
     - The players eventually make their way through the labyrinth and find the final lever leading to the library
+
+  <div style="page-break-after:always">&nbsp;</div>
+
+# Session 5
+- Party arrives at Lavender Library
+  - Meets Gaelor, a Harengon (rabbit-folk) librarian who gives this week's copy of Wizard Weekly which some info about the mirror realm
+  - Meets Stradavar, who is reluctant to stop his research but becomes interested when he learns the party has magical items
+  - Varinn appears unexpectedly at the library
+    - Questions why the party is here rather than trying to retreive the Left Eye of Zarus
+    - Party tries to convince him that they are in fact working on retriving the orb as fast as they can, and being at the library is part of the plan. 
+    - Varinn seems skeptical and says that he will give them a few more days before taking matters into his own hands. 
+- Archive of Auxiliary Attunement
+  - Strad convinces Gaelor to unlock the archive in exchange for a rock which makes a farting noise and a coin with Gaelor's face on it. 
+  - Party finds poems about the Eyes of Zarus, the Nevermore Necklace, as well as each of the magical items they've found.
+- Teleport to Mystic Museum
+  - After the library closes, Moosra casts charm person on Gaelor and convinces him to hand over his ID badge and a scroll of teleportation before encoraging him to quit his job at library and pursue a career in dance.
+  - Using the scroll, the party teleports to the Mystic Museum, where they plan to sneak in and steal some magical artifacts.
+  - Vaaneth shapeshifts into Gaelor and convinces the guards to let them in
+  - Using Gaelor's library card, the party manages to make their way into the employees only section and comes to a long hallway full of locked vaults. 
+  <div style="page-break-after:always">&nbsp;</div>
+
+# Session 6
+- Vault 31
+  - Using his goliath strength, Thalor crits open vault 31 which contains a room covered with mirrors and containing a silver crossbow
+  - When approaching the crossbow, a reflective being (a.k.a. silver surfer) from the mirror realm comes out of the mirror and starts attacking the party using the crossbow
+  - The party defeats it narrowly defeats it by destroying the mirrors
+  - Upon touching the crossbow, Strad has a vision of his village elder speaking to his parents. The elder warns of a prophecy which predicts that a child of this village will bring chaos with magic items. The elder warns Strad's parents to discourage artificing in order to prevent history from repeating itself
+- Vault 420
+  - The Pirouetter's Pointe Shoes force themselves onto Thalor's feet and start forcing him to run to vault 420. 
+  - Vaaneth opens the vault using a Scroll of Knock
+  - Inside the vault, there is a statue of Zarus and Varinn's office
+  - The party steals a black quill, Varinn's diary, Kaysa's songbook, Derek's Dance Diary, and Timmy's Trainers
+- Nibbles
+  - After hearing the Knock spell, the guards come rushing into the vault area
+  - They still think that Vaaneth is Gaelor and say the Gaelor is under arrest
+  - Kebo-Wan claims that Gaelor is taking them hostage
+  - The party flees down the track on the cart before they are teleported into a treehouse 
+  - A wizard squirrel introduces himself as Nibbles and says he can't help but feel partly responsible for what happened in the museum
