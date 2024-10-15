@@ -4,9 +4,9 @@
 
 - Break into vault and find Cunning Crossbow
 - Encounter with Reflective Being + Visions to start Strad's Quest
-- Pointe Shoes run off (with Thalor attached DC20) to vault 420(or 69?)
+- Pointe Shoes run off (with Thalor attached DC20) to vault 420
 - Need to use Scroll of Knock to open the vault
-- Contains Kaysa's Songbook and Derek's Dance Diary (+other items for Varrin's backstory? + automoton guards?)
+- Contains Kaysa's Songbook and Derek's Dance Diary and Raven Queen's Feather
 - Trying to rob more vaults or exiting the museum encounters guards but fairy comes out of book to play ocarina and causes chaos
 - Alyona checks back in "I WAS GONE FOR 20 MINUTES WTF HAPPENED??"
 
@@ -18,7 +18,7 @@
    -  One he gets to 1/2 HP, Cunning Crossbow self-reflects to become 2 hand crossbows. At 1/4 hp, he casts Mirror Image
    -  Upon touching the bow, Strad sees vision:
       -  His parents are talking to village elder.
-      -  Elder warns them to discourage artificing. They protest that it's fine, but elder insists that there are forces at play beyond their knowledge. There is a prophecy that a child from this village would bring chaos with  magical items and history will repeat itself. For the good of the village, everyone must try to nip his curiosity about enchanting items in the bud. 
+      -  Elder warns them to discourage artificing. They protest that it's fine, allbeit unconventional for the town norms. But the elder insists that there are forces at play beyond their knowledge. There is a prophecy that a child from this village would bring chaos with  magical items and history will repeat itself. For the good of the village, everyone must try to stop his curiosity about enchanting magical items.
 2. **Varinn's Vault**
    - After the mirror fight, the Pointe shoes start running off toward vault CDXX (420)
    - Using knock scroll opens to Varinn's private office. 
@@ -32,11 +32,21 @@
         Other entries:
           - Death is imperfect, so the portal to the shadowfell should be closed
           - The mirror realm turns out to be a surprisingly useful! Assets can be conveniently stored and easily accessed while heretics can be imprisoned without the need of guards
-          - Alyona found out about the Carriers before I had a chance to ease her into it. She's being dramatic by running off into the woods, but I'm sure she'll come around eventually.  
+          - Alyona found out about The Carriers before I had a chance to explain it to her properly. She's being dramatic by running off into the woods, but I'm sure she'll come around eventually.  
      - Investigation of books:
        - Kaysa's songbook: flute will play itself upon opening
        - Derek's Dance Diary: Pointe shoes are trying to find it
-
+  3. **Blame Gaelor**
+     - After exiting Varinn's vault, guards will come, but the ocarina puts them to sleep
+     - optional: Jeremey swats his paw at the floating ocarina and an ethereal fairy comes out and passes through Jeremy's head. It giggles playfully and another song plays itself, which teleports the party back to the shop in Owen's Outpost where they originally bought honey. Jeremy happily eats the honey out of the jar to the shopkeeper's shagrin
+     - optional: Nibbles teleports them out and explains that he feels partly responsible for these happenings
+     - Alyona resumes telepathic communication and let's them know why she stopped talking (to gouge out her own eye) as well as expressing disbelief that they pulled a museum heist in the 30 minutes that she was gone (or confused that they are back in owens outpost so quickly depending when she contacts) 
+     - Regardless of what happens, Gaelor gets blamed for breaking into the museum since Vaaneth shapeshifted into him and he scanned his ID card and then Gaelor disappeared afterwards. There is a bounty put out for him, and he doesn't return after Charm Person wears off (He is going to Derek's Dance Academy for Fighters).
+  4. **Introduce Nibbles**  
+      - Somewhere along their trail, they encounter Nibbles Cleverwhisker who is amused by the party's shenanigans.
+      - Displays awesome ability by casting Fireball, Enlarge, Telekenesis, etc. 
+      -  He usually doesn't like to get involved in these things but will help if doing so helps keep the balance of the realm. 
+         >"Just call my name and I'll be able to find you. Whether or not I feel like doing so depends on my mood though."
 ### Possible courses:
 - Investigate Fairy, Dance, or Punch quest: 
     - take path NE to Enchanted Grove
