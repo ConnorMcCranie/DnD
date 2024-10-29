@@ -35,3 +35,8 @@ Main attraction is the large, red and blue cathedral which houses the Eyes of Za
 - Museum which safely holds dangerous magical items
 - Located north of the Lavender Library
 - Varinn somehow has access to items stored in the museum
+
+##### Verdant Refuge
+- Only area in the Gallant Grasslands which isn't infected by necroctic energy
+- A shield of pink pixie dust keeps the demons at bay
+- Lori Faewood is the mayor and Charles is the resident alchemist
