@@ -149,3 +149,7 @@
   - Kebo-Wan claims that Gaelor is taking them hostage
   - The party flees down the track on the cart before they are teleported into a treehouse 
   - A wizard squirrel introduces himself as Nibbles and says he can't help but feel partly responsible for what happened in the museum
+
+# Session 7-8 
+- Secret Society of Super Squirrels
+- 
