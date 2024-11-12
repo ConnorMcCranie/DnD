@@ -51,4 +51,20 @@ Alyona goes silent. After a pregnant pause you hear Varrin's voice
     - Lost her brother Thorn to the dark warlocks, 
     - experiments with incorporating pixie dust into metals. 
     - When asked about the cunning crossbow, her theory is that the metal behaves as liquid because it still needs to be quenched and tempered
-    > Even the softest metals I work with harden right up when I  
+    > Whoever made this didn't finish tempering it. I can't say I understand the magic behind it, but I do know this: the colder metal gets, the harder it gets. Even the softest metals I work with harden right up when I quench them in the water trough. But this metal seems to be nearly liquid, even when fully submerged in the water! Apparently you'll need something a lot colder than water to solidfy it.
+
+- **Mansion**
+  - 5 lever puzzle
+    > A primary first helps open the door
+    The second lever will sound like a roar
+    The last lever pulled is the color of sky
+    After the second will buzz like a fly.
+    - color:sounds = black:roar,yellow:buzz,blue:flute,green:wind,red:bell
+    - correct answer red,black,yellow,green, blue
+    - correct order opens a compartment with triangle lock key 
+    > "Five from the right with 3 inbetween"
+
+  - triangle key puzzle to get in top right room
+    - "Five from the right with 3 inbetween" key dropped by Morg
+  - alter to ravevn queen in back
+    > " Embrace the shadows within you, disciple of the night. Follow the raven's call and you shall become a part of the flock: a member of the *unkindness*.  I bestow upon you this gift, for a mirror can only reflect that which can be seen."
