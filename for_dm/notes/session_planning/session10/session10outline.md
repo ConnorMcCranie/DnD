@@ -1,4 +1,4 @@
-# Session 9 Outline
+# Session 10 Outline
 
 ### Ideas:
 - Vaaneth goes into mirror realm and hears screams/ocarina/talking coming from void

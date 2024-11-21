@@ -290,3 +290,10 @@ possible arrows:
 -tracking arrow
 -teleporting arrow
 -identifying arrow (determine resistances/vulnerabilities)
+- honing arrow
+- empowered arrow
+- skewering arrow
+- pushback arrow
+- speed arrow
+- ignore cover
+- disengaging arrow
