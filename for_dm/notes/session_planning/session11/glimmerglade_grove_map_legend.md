@@ -17,31 +17,34 @@
       &nbsp;   
 9.  a
   &nbsp;   
-10.  aa
+10.   At the far end of the room, there is a statue which portrays a majestic stag deer looking into the distance. **[DC 12 (resp. 5) Perc/Invest]** You notice that behind accompanied the deer's leg, there is  a small fairy smelling a flower. (resp.) The inscription at the bottom of the statue reads "Phe-remlit," which Strad recognizes as the Sylvan word for "We." 
   &nbsp;   
-11.  a
+11.   a
       &nbsp;   
-12.  a
+12.   a
       &nbsp;   
-13.  a
+13.   lots o' Skeley-bois + Ethereal Reaper. skeley-bois pop up out of ground once people get all the way inside the room. 
       &nbsp;   
-14.  a
+14.   a
       &nbsp;   
-15.  a
+15.   This room is much larger than the others so far. Although it might be that the room simply *seems* larger because there is a floor to ceiling mirror on the wall, giving the illusion of twice as much space. Erected in the middle of the room, you see a statue of a female tiefling who eminates regal power. She has spiraling horns and a flowing cloak, her poised stance and coiled tail hinting at both beauty and deadly purpose. **[DC 5 Perc/Invest ]** At the base of the statue there is a plaque which reads "Myrrulq" ("Herring" in Infernal) [*Idea: Silver surfer men come up from the floor, but don't try to fight. They are actually villagers from Strad's hometown that are trapped in the mirror world trying to communicate. They can't talk or  hold their form for long. The elder shakes his head in disapproval at the crossbow*]
       &nbsp;   
-16.  aa
+16.    "Airlock" opening door  takes DC20 strength or DC10 if 2 people help. The next door can't be opened unless the previous door is closed (otherwise it shocks you 1d4+?). Varinn had these installed on either side of the Human room to insulate from the "imperfection of the other races. 
+> Clue: **[DC ?? Perc/Invest ]**
+> You find a discarded piece of parchment, which seems to be some kind of work order. It lists the price of materials (fur,  amber, rod of crystal, and a rod of glass) and number of hours of labor. At the bottom, there is a note which says "of all the grove's portrayals, the adjacent room's is a paragon of constitution and therefore must be insolated from the various malignities which persist throughout the grove. This mechanism's purpose is to keep the statue pristine. Payment will be made after I verify its efficacy"
+          
+&nbsp;   
+17.   In the center of the room is a staue. It portrays a human bard sitting on a stool and strumming a lute; he wears a fancy cap with a feather in it and his mouth is open in song. **[DC 5 Perc/Invest ]** At the base of the statue there is a plaque which reads "The" in Common. **[DC 11 Perc/Invest ]** This staue seems to be in much better condition than the others. There aren't as many cracks, and it has a slight shine as if it has been recently polished. 
       &nbsp;   
-17.  a
-      &nbsp;   
-18.  a
+18.   "Airlock" opening door from cooridor a takes DC20 strength or DC10 if 2 people help. The next door can't be opened unless the previous door is closed (otherwise it shocks you 1d4+?) Clue from `16` if they go this way first
     
 ### Corridoors 
 a. Celestial to Halfling dictionary
 b. mimic chest
-c. Dwarvish to Infernal dictionary
+c. Celestial to Common dictionary
 d. Dwarvish to Halfling dictionary
 e. wall dart trap
 f.
-g. Celestial to Common dictionary
+g. Dwarvish to Infernal dictionary
 h.
 i.

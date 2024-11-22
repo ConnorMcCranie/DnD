@@ -32,6 +32,10 @@
 - In charge of the Guilded Tavern, Zaridel's most luxurious tavern
 - Winked at Thalor
 
+##### Charkee
+- Kebo-wan's lobotomized cousin
+- Mistakenly ends up in the Verdant Refuge when looking for Tommy's BBQ and Dojo
+
 ##### Charles
 - Resident alchemist in the Verdant Refuge
 - Dropped out of gnome college to learn alchemy on his own by trial and error
