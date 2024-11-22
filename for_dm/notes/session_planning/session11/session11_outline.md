@@ -10,7 +10,7 @@
   - Lori requested that they look for more sprites. Strad/Vaaneth negotiated that since the GDP (grasslands domestic product) would increase, they should get property in return.
 
 ### Towards Lake/Grove
-- On the way to lake, there is **[DC 15 Perc]** to notice some acorns. Investigating this will lead to finding the evil warlock squirrel HexTail the Nut-o-Mancer practicing the Raise Dead spell. He will turn invisible and flee if he feels too threatened.
+- On the way to lake, there is **[DC 15 Perc]** to notice some acorns. Investigating this will lead to finding the evil warlock squirrel HexTail the Nut-o-Mancer practicing the Raise Dead spell (He creates 3 CR1 ghouls). He will turn invisible and flee if he feels too threatened.
 -At the lake, 
 > The serene water is a deep pitch black color. **[Arcana check]** You can feel a dark necrotic energy coming from beneath the water. It is similar to the dark energy you encountered in Morgana's mansion, but more concentrated. **[DC 12 Inv]** On the east side of the lake, you see a large structure whose walls are covered in plants. While these plants may once have been lush and green with flowers and fruits, they are now dark and shrivelled
 - There are lots o' locks guards patroling the water. The three guards who Strad nat20 convinced will vouch that they are from the circus.  Major Markus (Morgana's brother) is skeptical. He wants the guards high alert looking for Morgana (only been one day, so maybe no one found her body yet). 
