@@ -8,7 +8,14 @@
   - Met Thalia Ironforge, who suggested that the liquid metal could be tempered if cold enough. She also was enamored with Kebo-Wan and offered to enrich their weapons with pixie dust. She also took the crossbow to try and put it in a different mold.
   - Kebo-Wan found his cousin Charkee taling to old man Timothias. Kebo-Wan fought Timothias 1v1, but he got wrecked (especially in the kidneys). Still, Timothias was impressed enough that he allowed him to keep training with the Tenderizers. 
   - Lori requested that they look for more sprites. Strad/Vaaneth negotiated that since the GDP (grasslands domestic product) would increase, they should get property in return.
- 
+### At Verdant Refuge
+- Thalia gives back weapons, which are now Fairy blessed (+1 against undead)
+- She couldn't figure out the crossbow
+  > I tried putting the crossbow in the mold like you asked. It poured into the hand crossbow molds perfectly! There was just enough material for both but.. it just wouldn't hold its shape. After I took it out, the metal just recombined into its original form. I thought maybe it wanted to stay together, so I also tried using the heavy crossbow mold since that's all one piece. Same story unfortunately, it returned to its original form after I took it out. Maybe we could get better results if you could cool it down more...  
+- The town is a bit more lively. There are more people out and about now that they don't have to chant the protection ritual. You see a group of builders drawing out blueprints and measuring some logs. 
+- You hear some shouts and cheers coming from a small group of gnomes and halflings who are forming a circle. 
+  - Within the circle, you see two gnomes engaged in a fierce free-style dance battle. 
+  - If you battle them, they recommend trying out at Derek's Academy for Dancing Fighters. They know that it's east of the Gallant Grasslands, on the other side of Hobblegate Boarding School for Gnomes.  
 ### Towards Lake/Grove
 - On the way to lake, there is **[DC 15 Perc]** to notice some acorns. Investigating this will lead to finding the evil warlock squirrel HexTail the Nut-o-Mancer practicing the Raise Dead spell (He creates 3 CR1 ghouls). He will turn invisible and flee if he feels too threatened.
 -At the lake, 
@@ -22,12 +29,12 @@ standing in groups. Several races are represented among the figures - from left 
 
 | word | language | translated| description |
 |- | - | - | -|
-| All | Halfling | Lur |  A smiling halfling lifting a mug of ale in the air as a toast. |
+| All | Halfling | Lur |   The statue depicts a cheerful, stout halfling standing with hands on its hips, wearing a simple tunic and boots.  |
 | Together | Elvish | Aestar | An elven ranger with a bow and quiver slung across her back, arms spread wide in a friendly gesture|
 | We | Sylvan | Phe-remlit | A majestic stag deer looking into the distance, accompanied by a fairy smelling a flower. |
 | Are | Draconic | Re | A tall dragonborn barbarian wielding a two-handed axe and holding it in position to swing downwards with a ferocious attack. |
 | The | Common | The | A human bard sitting on a stool and strumming a lute, she wears a fancy cap with a feather in it and her mouth is open in song |
-| Key | Dwarvish | Muol | A dwarf priest in long, flowing robes, with hands folded in prayer and a key hanging from his belt. |
+| Key | Dwarvish | Muol | There is a statue which depicts a dwarf priest in long, flowing robes, with his arm raised and his head tilted back. However, the hand of the lifted arm is broken off. The plaque at the bottom reads "Muol" |
 | Red | Celestial | Pounnem | An aasimar stands with serene grace, its celestial features carved in perfect harmony—radiant wings unfurled and a gentle, peaceful expression that conveys both divine beauty and  strength. |
 | Herring | Infernal | Myrrulq| The statue of a female tiefling exudes regal power, with spiraling horns and a flowing cloak, her poised stance and coiled tail hinting at both beauty and deadly purpose.|
 
