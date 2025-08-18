@@ -80,6 +80,9 @@
 - member of the Secret Society of Super Squirrels
 - Tends to accidentally interefere in matters that he's trying to avoid affecting
 
+##### Thalia Ironhand
+  > Thalia Ironhand is a sturdy dwarf, standing at about 4 feet tall, with a robust and muscular build that speaks to her years spent at the forge.  Thalia sports a thick, intricately braided beard that reaches down to her chest, adorned with small metal beads and decorative clasps that reflect her craftsmanship.
+
 ##### Timothias
 
 - Surprisingly fiesty old man who lives in Owen's Outpost
@@ -136,8 +139,7 @@
 - Home to Timothias, an old man who brags about still being a great fighter despite his age.
 - The market for honey seems to be extremely cut throat with the cost of a single jar running up to 30gp
 
-##### Thalia Ironhand
-  > Thalia Ironhand is a sturdy dwarf, standing at about 4 feet tall, with a robust and muscular build that speaks to her years spent at the forge.  Thalia sports a thick, intricately braided beard that reaches down to her chest, adorned with small metal beads and decorative clasps that reflect her craftsmanship.
+
 
 ##### Verdant Refuge
 - Only area in the Gallant Grasslands which isn't infected by necroctic energy
