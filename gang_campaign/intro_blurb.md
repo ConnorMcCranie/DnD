@@ -1,0 +1,36 @@
+# Welcome to Terrathel
+
+#### The Divine Council
+&nbsp;&nbsp;&nbsp;&nbsp; Generations ago, the realm of Terrathel was unified under the rule of The Divine Council, a group of powerful individuals who used their prowess to keep balance within the land. In those days, the council consisted of one representative from each class (Wizard, Druid, Monk, etc.), and their philosophy was that any problem facing the realm could be overcome by combining their divirse set of skills and strengths. Whenever a council member would retire or perish in battle, a new member of their class would be added to the council by means of a grand competition to find the most powerful among that class within the land. This system worked smoothly for centuries<sup>[1]</sup>, and the inhabitants of the land grew accostomed to times of peace.
+
+#### The Coup D'&eacute;tat
+&nbsp;&nbsp;&nbsp;&nbsp; There was a fringe group of humans who worshipped the God of Perfection known as The Cult of Zarus. Although the majority of average citizens in the realm supported The Divine Council's rule, this cult resented being ruled by those whom they considered to be inferior and underseving of such power. In their view, the realm should be ruled by a single person chosen by God rather than a committee of different classes wielding "chaotic and impure" magic and abilities. The cult's ruthless leader, Marwinn the Magnanimous, felt so strongly in this belief that he eventually took matters into his own hands. No one knows precisely how Marwinn managed to stage a coup against 13 of the most powerful individuals in the land, though historians agree<sup>[2]</sup> that he most likely utilized at least one magical artifact. What *is* known is that The Divine Council disappeared without a trace and Marwinn assumed control in their stead. 
+
+&nbsp;&nbsp;&nbsp;&nbsp; Most citizens were unaware of the council's absence for quite some time, as Marwinn and his followers went to great lengths in order to keep up the appearance that everything was proceeding as normal. Many diplomats started to report that the Divine Council members' personalities seemed to have suddenly changed. It was later presumed that Marwinn had simulated the council members' likeness using some sort of illusory magic, thereby delaying any suspicions that a coup had taken place. By the time that anyone realized what had happened, Marwinn had siezed control of various regions and means of production, in addition to changing certain laws in favor of his cult following. In response, a ressistance to Marwinn's coup culminated in the Battle of Hærūn, a horrific confrontation which lasted months and took countless lives. In the end, Marwinn was forced out of his position of power, though he did not retreat empty handed; Marwinn and the Cult of Zarus maintained a portion of the influence and land (present day Zaridel) they had siezed as a condition of surrender.
+
+#### Terrathel Today
+&nbsp;&nbsp;&nbsp;&nbsp; In the modern day, there is no longer a divine council. Instead, the various regions have their own leaders and operate more or less independently. The descendants of Marwinn and the Cult of Zarus reside in the sprawling city of Zaridel, populated mostly by humans. On the outskirts of Zaridel, there are some remnants of the old rebellion in Owen's Outpost, a small town home to those who don't subscribe to Zarunism. 
+
+&nbsp;&nbsp;&nbsp;&nbsp; Druids and Fey are most likely to be found in the rolling green hills of the Gallant Grasslands. An acient fairy took control of the Gallant Grasslands in The Divine Council's absence, and her magic and music attract those who value nature and the old ways. However, not all who live in the Gallant Grasslands lead quiet and esorteric lives. The Verdant Refuge offers something closer to a city for those who enjoy both nature and modern comforts, a popular choice for rangers.
+
+&nbsp;&nbsp;&nbsp;&nbsp; Most citizens are aware of magic, though not many understand it. For those who do, the Lavendar Library is the realm's largest collection of arcane tomes, magical scrolls, comprehensive treatises, cryptic texts, and, of course, publisher of Wizard Weekly<sup>[3]</sup>! Wizards and Sorcerers alike are often seen perusing the library grounds or visiting the nearby Mystic Museum, which is home to countless artifacts and curios. For those seeking an education, magical or otherwise, there is the world renown Hobblegate: Boarding School for Gnomes, which now proudly serves non-gnomes<sup>[4]</sup>.
+
+&nbsp;&nbsp;&nbsp;&nbsp; Cooks and fighters alike flock to Tommy's Dojo & BBQ<sup>[5]</sup> to obtain first rate training. Tommy's great-grandfather Thomm fought firsthand in the Battle of Hærūn, which inspired him to teach fighting techniques to the younger generations. Tommy pursued his passion for barbecue when he inherited the family business, because he believes that great food and great fighting should go hand in hand. He also believes that, "Hands and other hands should go hand in hand. You know, like, when they're punching each other."
+
+&nbsp;&nbsp;&nbsp;&nbsp; There are many small towns and villages scattered throughout Terrathel. Due to the absence of a higher  authority, enemy factions often form between neighboring villages in competition for local resources. Small gangs or lone rougues have become quite successfull in the abscence of The Divine Council, too often getting away with preying on traveling merchants and unprotected supply shipments. Citizens know not to wander through the woods without an escort, whose prices have skyrocketed in recent years. This leads to a high cost of shipping between regions, which has benefited some but harmed most.
+
+&nbsp;
+
+&nbsp;
+
+**Footnotes**
+
+[1] Some council reassignments happened less "smoothly" than others. After Naethall the Great was unexpectedly slain by a wild pangolin, all the most powerful wizards gathered to participate, as usual, in a spectacular tournament to determine his successor. Controversy arose, however, when Korveten the Kooky simply teleported all the other participants into an alternate dimension to claim vicotry. Despite great uproar from the judges, they eventually had to admit that Korveten's strategy wasn't *technically* against the rules.
+
+[2] An alternate theory proposed by prominent historian Heriodynus hypothesizes that Marwinn's coup was carried out by powerful allies in the Shadowfell.
+
+[3] Winner of Best Magical Magizine 372 years in a row!
+
+[4] Hobblegate must allow non-gnomish students as required by law.
+
+[5] Tommy's Dojo & BBQ: *Where Flavor Meets Fist*™
