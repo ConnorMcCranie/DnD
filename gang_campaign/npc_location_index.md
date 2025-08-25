@@ -64,6 +64,9 @@
   - elf ranger "mayor" of the Verdant Refuge who witnessed the gradual decay and corruption 
   - wants to find Kaysa / stage rebellion against Morgana
   - has a bad habit of breaking the 4th wall
+  
+##### Lord Quandarice: the Quanderer
+  - ???
 
 ##### Marwinn (the Magnanamous)
 
