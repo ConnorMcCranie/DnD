@@ -66,7 +66,11 @@
   - has a bad habit of breaking the 4th wall
   
 ##### Lord Quandarice: the Quanderer
-  - ???
+ - Lord Quandarice Fizzlebang was once the pride of an old gnomish aristocratic family, destined for greatness. He was a true prodigy, graduating with top honors from the world-renowned Hobblegate: Boarding School for Gnomes, where his mastery of Arcane Engineering was legendary. His family expected his inventions to bring them even greater prestige, and Quandarice, eager to prove his genius, sought to create a device that would revolutionize society and secure his legacy.
+
+ - After leaving Hobblegate, Quandarice secured a wealthy investor for his ambitious project: a human named Charkee. Charkee was the cousin of Kebo-Wan, a widely respected human monk who had obtained his first-rate training at Tommy's Dojo & BBQ. Quandarice's invention, the "Synaptic Tapestry," was a psionic device designed to project a user's thoughts as a shared, tangible illusion for others to experience. During a private demonstration, however, Quandarice, in a fit of arrogant overconfidence, pushed the unstable prototype past its safety limits.
+
+- The machine catastrophically backfired, unleashing a wave of raw arcane energy directly into Charkee's mind. The psychic assault was devastating, leaving the investor mentally shattered and permanently lobotomized. The scandal was immediate and ruinous. Kebo-Wan used his considerable influence to decry Quandarice's reckless negligence. Faced with overwhelming public disgrace and the horrific crippling of a prominent human, the Fizzlebang family disowned Quandarice completely, stripping him of his name, title, and fortune. Now a pariah, Quandarice wanders the land, haunted by his failure and desperately seeking a way to undo the damage he caused.
 
 ##### Marwinn (the Magnanamous)
 

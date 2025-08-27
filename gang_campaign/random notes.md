@@ -1,0 +1,5 @@
+- Lord Quandarice
+- 'No Goblemo'
+- Female Dragonborn Paladin (Quandarice's daughter?) with noble background (simultaneously knight, princess, AND dragon) who, through a series of misunderstandings, gets hired to save herself from herself
+- 1gp = $100
+- KPop Demon hunters inspiration?
