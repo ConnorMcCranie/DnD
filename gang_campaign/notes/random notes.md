@@ -1,0 +1,17 @@
+- Lord Quandarice
+- 'No Goblemo'
+- Female Dragonborn Paladin (Quandarice's daughter?) with noble background (simultaneously knight, princess, AND dragon) who, through a series of misunderstandings, gets hired to save herself from herself
+- 1gp = $100
+- KPop Demon hunters inspiration?
+- Socerer's Silver (Argent Expanse)
+  - In the distant future, Marwinn's descendent is a Chonurgy wizard who invents a way to send things back in time (inspired by Christopher Nolan's Tenet)
+  - Socerer's Silver is found in an area northeast of Zaridel. When mined, it is in solid form and extremely cold to the touch. It has to be magically refined (somehow?) at which point it appears to be liquid, yet is still mysteriously malleable (Weird metal with strange properties which becomes extremely powerful if properly refined is inspired by early 20th century uranium).
+  - In this form, it provides tremendous raw magical power, which is what powers the Eyes of Zarus and also how Marwinn originally staged the coup
+  - Marwinn and his successor Varinn have been quietly harvesting Socerer's Silver, but recently miners found a vein for themselves, leading to a "gold rush" scenario, where scrappy settlers from other regions rush to try their luck at mining and hawking the strange material. 
+  - Despite the hyper, Sorcerers haven't quite figured out precisely how to harness Socerer's Silver, though they are getting closer day by day
+  - There are plenty of "snakeoil salesman" types ho claim myriad uses for Socerer's Silver and make bank selling to unwitting buyers who seek a miracle substance (sort of like the novelty uranium/radium products being sold in the 19/20th century)
+  - Due to the craze, "wild west" style towns have sprung up all over the region, with bandits trying for local power and self-appointed wardens trying to reign them in
+  - Varinn has not taken kindly to the widespread knowledge of Socerer's Silver and is trying to regain his former monopoly through military force and trying to disuade researching the material's power through propoganda
+  - Varinn is building a "rail road" of paved roads straight to Zaridel with carts pulled by Bulettes in order to tighten his grasp on the resource
+  - With enough Socerer's Silver, you can build something like an "inverting machine" (from Tenet)
+  - Connection to the Shadowfell: Marwinn went back in time to when the Raven Queen was at the height of her power and used Socerer's Silver to harness the power for himself. This is not only how he staged the coup, but also the explanation for why the Raven Queen's power faded in the first place.

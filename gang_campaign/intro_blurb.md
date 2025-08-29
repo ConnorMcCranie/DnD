@@ -19,6 +19,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; There are many small towns and villages scattered throughout Terrathel. Due to the absence of a higher  authority, enemy factions often form between neighboring villages in competition for local resources. Small gangs or lone rougues have become quite successfull in the abscence of The Divine Council, too often getting away with preying on traveling merchants and unprotected supply shipments. Citizens know not to wander through the woods without an escort, whose prices have skyrocketed in recent years. This leads to a high cost of shipping between regions, which has benefited some but harmed most.
 
+&nbsp;&nbsp;&nbsp;&nbsp; Beneath the Gallant Grasslands lies the Glimmer Root Caverns. This vast, interconnected system of caves is home to peaceful colonies of Myconids, who have lived in isolation for centuries. The Myconids of the Glimmer Root Caverns are worshiped by a cult of Tortles known as The Shell-Sworn. These Tortles, led by  Elder Mossback, admire the Myconids' slow pace of life, and they view the process of telepathic "melding" via hallucinogenic spores as being sacred. Although Myconids are not generally welcoming of outsiders, The Shell-Sworn have proved their loyalty over generations, and today they are an integrated part of Myconid society. 
+
+&nbsp;&nbsp;&nbsp;&nbsp; In recent times, chaotic political conditions and fierce competition for local power have pushed surface-dwellers to seek untapped resources in the caverns. In response, the Shell-Sworn have assumed the role of defenders, as the Myconids are not well-suited to combat. These Tortles are the last line of defense against intruders, whom they refer to as "quick walkers." Elder Mossback insists that all defensive measures be non-vioent, but some younger cult members are starting to question his philoshophy due to the ever increasing number of intruders.
+
 &nbsp;
 
 &nbsp;
