@@ -2,7 +2,7 @@
 **Background/Plot**
 - Varinn leads the cult of Zarunites and wants to take over Terrathel once and for all to finish what his great-grandfather Marwinn started. His end goal is to have everyone be Zarunite humans under his influence.
 
-  - The source of Varinn's power lies in Sorcerer's Silver, which has been sent from the distant future by his Chonurgy wizard named Kroninn. (It turns out that Kroninn *is* Varinn, who eventually figures out how to live forever by inverting the Raven Queen's necrotic energy into life energy)
+  - The source of Varinn's power lies in Sorcerer's Silver, which has been sent from the distant future by a Chonurgy wizard named Kroninn. (It turns out that Kroninn *is* Varinn, who eventually figures out how to live forever by inverting the Raven Queen's necrotic energy into life energy)
     - Its world arrow is inverted (like in Tenet), and it was (will be) allocated in the Argent Expanse by Kronnin
     - It can absorb and concentrate raw energy from its surroundings (the reverse of forward time-like energy dissipation). A piece of raw ore feels cold to the touch because it is absorbing surrounding energy (magical and non-magical)
     - The "refining" process involves isolating the material and exposing it to large amounts of energy which it absorbs. Varinn achieves this by forcing his followers to cast energy intensive spells in a assembly line style factory
@@ -22,30 +22,28 @@
     - Kaysa is being used as a "battery" for sorcerer's silver underneath the Glimmerglade grove
     - The large amount of necrotic energy has attracted evil warlocks, Mayor Morgana among them
 - Varinn's ideology believes that humans are the "perfect race." He tries to convert everyone into humans.
-    - Using the Eyes of Zarus, he controls non-humans' minds and forces them to swap bodies with humans
-      - The extra human bodies are "farmed" by his followers in breeding compounds
-      - The resulting brainwashed/mind-controlled consciousness inside the non-human bodies are forced to mine, refine, or otherwise serve Varinn's purposes
+    - Using the Eyes of Zarus, he controls non-humans' minds and hypnotizes them to change their race into being human
 
 
 
 **Session Start**
 - Party starts in Owen's outpost. 
-> You find yourselves in Owen's Outpost, a small town huddled on the outskirts of the sprawling city of Zaridel. This place stands as a pocket of defiance in a fractured world, a community built by the remnants of the old rebellion and now home to those who refuse to subscribe to the rigid philosophy of Zarunism. Here in the outpost, life is practical and unadorned. The dirt roads wind between plain buildings of timber and stone. You pass a house which looks abandoned: covered in moss and whose periphery is surrounded by weeds. 
+> You find yourselves in Owen's Outpost, a small town huddled on the outskirts of the sprawling city of Zaridel. This place stands as a pocket of defiance in a fractured world, a community built by the remnants of the old rebellion and now home to those who refuse to subscribe to the rigid philosophy of Zarunism. Here in the outpost, life is practical and unadorned. Dirt roads wind between plain buildings of timber and stone. You pass a house which looks abandoned: covered in moss and whose periphery is surrounded by weeds. 
 > 
-> You approach the center of town, where shops are mostly empty. Prices on signs have been crossed out and replaced with higher numbers, multiple times in some places. Your eyes widen as you see a single jar of honey priced at an astonishing 30 silver pieces. You shiver as the cold autumn wind blows, and you hurriedly find warmth in the town's only tavern, where the smell of woodsmoke and stew fills the air. You sit at one of the 4 available stools and have a moment to reflect about your journey here.
+> You approach the center of town, where shops are mostly empty. Prices on signs have been crossed out and replaced with higher numbers, multiple times in some places. Your eyes bulge as you see a single jar of honey priced at an astonishing 30 silver pieces. You shiver as the cold autumn wind blows, and you are relieved to find warmth in the town's only tavern, where the smell of woodsmoke and stew fills the air. You sit at one of the 4 available stools and have a moment to reflect about your journey here.
 > [opportunity for players to share about their character/backstory]
   - There are only a few open chairs so they sit together
   - NPC's present: Alyona's Parents (Lianes and Alan), Lori Faewood, Timothias, Jeremey(?)
-- **McGuffin**: Lianes enters the tavern(?) and exclaims 
+- **McGuffin**: An elegant elvish woman with long flowing blonde hair casually enters the tavern and says 
  >"There you are Alan! I just got back from my stroll and was looking for you and Alyona. Are you feeling alright? You look a little different." 
  >He looks back in shock and eventually says "... got back from your stroll.. GOT BACK FROM YOUR STROLL?? Lianes, YOU'VE BEEN GONE FOR FOURTEEN YEARS!"
- "Oh, was it 14? How time flies! Sorry about that. I was having such a nice walk through the forest and got a little distracted by the cutest little squirrels. Then I went to the Library for a couple years and then back to the Gallant Grasslands. That place has really fallen out of grace since I grep up-- "
+ "Oh, was it 14? How time flies! Sorry about that. I was having such a nice walk through the forest and got a little distracted by the most peculiar little squirrels. Then I went to the Library for a couple years and after that back to the Gallant Grasslands. That place has really fallen out of grace since I lived there when I was-- "
  "You abandoned us! We thought you were dead!"
  "Oh don't be so dramatic, it was just a few years. I would've let you know if I was going to be gone for more than a quarter century."
  "Maybe 14 years is 'just a few' for you, but it's quite a bit more than that for the rest of us. My mother warned me about marrying an elf, but I didn't listen... She's dead now, by the way. Too bad you couldn't make it to the funeral" 
  "Oh, is that why you look so different? I guess I forgot that humans live for a few less centuries than elves do. Anyways, where's Alyona?"
- "Alyona's gone. She didn't exactly react well to her mother abandoning her out of the blue. Not long ago she went so far as to renounce her elvish heritage and left for Zaridel. Can't say I agree with her choice, but I don't blame her either."
- "Well I should very much like to see her."
+ "Alyona's gone. She didn't exactly react well to her mother abandoning her out of the blue. Not long ago she even went so far as to renounce her elvish heritage and headed for Zaridel. Can't say I agree with her choice, but I don't blame her either."
+ "Well I should very much like to see her. When I was in the Grasslands, I picked up an old family heirloom that "
  "I'm not sure she feels the same way about you. Besides, once someone moves to Zaridel, they rarely ever want to leave. I doubt we'll ever see her again. 
 " Don't be so dramatic! I'm sure we could find someone to help us find her. How about.... you?"
 
