@@ -23,6 +23,14 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; In recent times, chaotic political conditions and fierce competition for local power have pushed surface-dwellers to seek untapped resources in the caverns. In response, the Shell-Sworn have assumed the role of defenders, as the Myconids are not well-suited to combat. These Tortles are the last line of defense against intruders, whom they refer to as "quick walkers." Elder Mossback insists that all defensive measures be non-vioent, but some younger cult members are starting to question his philoshophy due to the ever increasing number of intruders.
 
+&nbsp;&nbsp;&nbsp;&nbsp; The region northeast of Zaridel, once considered unremarkable, is now known as the Argent Expanse. The discovery of Sorcerer's Silver, a mysterious metal with magical properties, has triggered a massive rush of prospectors, opportunists, and bandits. Sorcerer's Silver has mysterious magical properties: it is unusually cold to the touch when in its raw mineral form. When refined, Sorcerer's Silver appears to be liquid metal, though it remains malleable like a solid (think Silver Surfer material). In this form, Sorcerer's Silver has the potential to provide immense raw magical power, though the details of he refining process is still widely misunderstood.
+
+&nbsp;&nbsp;&nbsp;&nbsp; In a realm already suffering from the absence of a higher authority, this new frontier is a hotbed of conflict and opportunity. Makeshift boomtowns like Frostite Gulch and Silvervein have sprung up overnight, rife with bandits, gangs, and a handful of wardens trying to keep the peace. The streets are inundated with SilverOil Salesmen, who hawk dubious products made from the "miracle material" such as Frostvein Salve and Ageless Argent Face Cream. These products boast outstanding health benefits, yet seem to result in less-than-positive outcomes for their users. Still, logic and sound business practices take the backseat as the prospect of new resources and rapid growth gives hope to people desperate to escape their economic situation.
+
+&nbsp;&nbsp;&nbsp;&nbsp; Varinn the Veracious, leader of Zaridel, seems to have a keen interest in harvesting the material. He has allocated enormous resources to set up an extraction pipeline straight to Zaridel: a road connecting the two regions paves the for huge carts filled with the substance pulled by Bulettes. 
+
+&nbsp;&nbsp;&nbsp;&nbsp; The indigeonous inhabitants are Loxodons who have started attacking these towns. They view the sorcerer's silver as sacred and don't think anybody should be mining it. 
+
 &nbsp;
 
 &nbsp;

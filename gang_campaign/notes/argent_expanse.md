@@ -5,4 +5,4 @@ In a realm already suffering from the absence of a higher authority, this new fr
 
 Varinn the Veracious, leader of Zaridel, seems to have a keen interest in harvesting the material. He has allocated enormous resources to set up an extraction pipeline straight to Zaridel: a road connecting the two regions paves the for huge carts filled with the substance pulled by Bulettes. 
 
-The indigeonous inhabitants are goliaths who have started attacking these towns. They view the sorcerer's silver as sacred and don't think anybody should be mining it. 
+The indigeonous inhabitants are Loxodons who have started attacking these towns. They view the sorcerer's silver as sacred and don't think anybody should be mining it. 
