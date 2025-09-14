@@ -38,7 +38,39 @@
 
 
 &nbsp;------**Encounter**---------- 
-- A group of tiefling bandits attack the party on the road
+- A group of Shadar-Kai bandits attack the party on the road [Morgana wants the necklace because its Fey magic can be "inverted" to necrotic magic using sorcerer's silver]. 
+  >  As you make your way back towards Owen's Outpost, a strange quiet has fallen over the woods. The usual chorus of chirping insects and rustling leaves are notably absent. The air grows cold, and a shiver and a shiver runs down your spine.
+    > 
+  > Suddenly, a figure steps out from behind a gnarled, ancient oak, blocking your path. She is tall and gaunt, with skin the color of ash and eyes that shimmer with an unsettling, otherworldly violet. Her dark hair is woven with intricate braids, and she wears a black leather corset with the image of a raven embossed on the shoulder. [Vaaneth thinks it seems familiar]
+  >
+  >Behind her, two equally gaunt figures emerge from the gloom, their faces obscured by deep hoods, but the same unsettling violet sheen catches the light in their eyes. A raven is perched on each of their shoulders. 
+  >
+  > The woman's voice cuts like steel, `Well, well. Looks like the bees have left the hive. I knew I smelled Fey magic around here.` Her gaze locks onto the necklace around Alyona's throat. `That necklace needs to be... repurposed. Hand it over and no one gets hurt.` 
+  >
+  >Your mouth goes dry as four more ashen skinned creatures with violet eyes appear behind you wielding swords and shields. 
   - One of them is secretly Morgana in shifted form [Vaaneth might notice]
+`Mayor Morgana` HP: 38, AC: 15, Spell save DC = 15
+    -  `Eldritch Blast` +7 to hit, 1d10+4 Force
+    -  `Scorching Ray` +7 to hit, 2d6 Fire
+    -  `Crown of Madness` DC15 Wis save or forced to make melee on turn
+    -  `Command` DC 15 Wis or "grovel" makes prone
+  &nbsp;
 
+    `Ranged Warlock x 2` HP: 23, AC: 13, DC : 14
+    -  `Eldritch Blast` +6 to hit, 1d10+3 Force
+    -  `Crown of Madness` DC14 Wis save or forced to make melee on turn
+    -  `Misty Step`
+  &nbsp;
+
+    `Hexblade Guard x 4` HP: 27, AC: 16 (Scale Mail, Shield)
+    - `Longsword` +5 to hit, 1d8+3 slashing damage
+    - `Eldritch Blast` +5 to hit, 1d10+3 force damage
+    - `Hex` (give disadvantage on wisdom and extra d6)
+    - `Misty Step`
+    - `Shield`
+  &nbsp;
+
+    `Alyona` HP: 24, AC: 15, DC: 13
+        - `Thorn Whip`, `Faerie Fire`, `Healing Word`, `Spider Climb`
+- 
 &nbsp;------**Owens Outpost**---------- 
