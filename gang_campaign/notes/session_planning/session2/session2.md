@@ -8,7 +8,7 @@
     [Vaaneth notices something strange about Mayor Morgana but can't put her finger on it]  
     > The man removes a red crytal ball from his robes and raises it above his head. He stands tall and there is a moment of dramatic silence before he proceeds to dip the orb into the bowl of liquid metal.   
     
-    [Whiskey and Ballar: At this dramatic moment, you notice something in the rafters. Several squirrels stand on their hind legs on one of the cathedral's wooden trusses. Their eyes are transfixed upon the red orb held above the man's head] 
+    [Whiskey and Ballar: At this dramatic moment, you notice something strange in the rafters. Several squirrels stand on their hind legs on one of the cathedral's wooden trusses. Their eyes are transfixed upon the red orb held above the man's head] 
 
     > Suddenly, a blinding beam of light emits from the orb and everything goes white in an instant. After a moment, the light subsides and you see a tall human woman in the spot where seconds ago stood a slender, emotionless half-elf. "Praise be to Zarus," she says. ["Praise be!" *clap*]
   - Immediately after the clap, everyone starts walking away in unison (including Alyona), muttering things like "great ceremony!," "yeah, even better than yesterday."
@@ -21,10 +21,22 @@
   > The citizens start filing through a grand hall located behinnd the cathedral's stage. The decor is stark and orderly, with red and blue accents which match everyone's attire. The tables are laden with food that is almost unnervingly perfect: fruits are arranged in flawless geometric patterns, bread is sliced to uniform thickness, and meat is carved with surgical precision. Despite the surreal situation, your mouths start to water. [Only Glow has ever seen anything close to this display of wealth]
   - Asks the party what brought them to Zaridel
   - Insists that Lynn is there voluntarily 
-  - Lynn seems in a trance, but momentarily snaps out of it when told that her mother is alive (or given necklace)
-    > Meet me in my quarters after sunset 
+  - Lynn seems in a trance, but will snap out of it if she is given the necklace
+    > Meet me in my quarters after the feast 
 
-- Varinn invites the party to stay in Zaridel for the night. He says that 4 rooms have already been arranged for their lodging. He acts extremely hospitable
+- Varinn invites the party to stay in Zaridel for the night. 
+  - He says that 4 rooms have already been arranged for their lodging. 
+  - He acts extremely hospitable
+  - Everybody at the feast takes a creepy amount of interest in the newcomers
+- Places in Zaridel:
+  - Plaza of Perfection
+  - Cathedral of Zarus
+  - The Veracious Spire
+  - Grand Hall
+  - Abodes of the Faithful
+  - Marwinn's Market
+  - Argent Refineries
+  - Farm Fields
 
 &nbsp;------**Leaving Zaridel**----------  
 - Back at Alyona's room
@@ -72,5 +84,32 @@
 
     `Alyona` HP: 24, AC: 15, DC: 13
         - `Thorn Whip`, `Faerie Fire`, `Healing Word`, `Spider Climb`
-- 
+- If anybody goes unconscious, the Druid Squirrrel will cast Healing Spirit as 3rd level spell (appears as transparent squirrel) `Heal 2d6 up to 6 times`
+- If the party gets too close to dying, Korveten will help from the trees with a Fireball or something. 
+- If Morgana is about to die, she turns invisible using `The Empy Shape` and flees.
 &nbsp;------**Owens Outpost**---------- 
+> The familiar, unadorned buildings of Owen's Outpost are a welcome sight after the ambush. You guide Alyona to the town's tavern, where you find her parents arguing
+>Alan `For the last time Lianes, you shant leave town until we get word about Alyona.`
+> Lianes `I don't see what the big deal is, Alan. I've been dying to see the new exhibit at the museum, and it's only a few days journey each way. I'll be back before you know it.`
+> Alan `For the last bloody time, I don't care if the Emporer of Ferundia is an hour outside town, you're not leaving until we find out about our daughter. `
+>
+> Just then, they look up to see you have returned. `So? Were you able to find Alyona?`
+>` "Is... is that really you? Your face... your ears... what did they do to you?"`
+
+**Reuinion** [Address the fact that Alyona is now human]
+- Alyona wants to get her original body back, but not sure how. 
+  > I have no idea how the orb works. Even if I did, I doubt Varinn would willingly hand it over, and stealing it would be suicide.
+  - Suggest that maybe they could figure out what the orbs are and how they work at the Lavendar Library
+- > Years ago when I first visited Zaridel, the "ceremonies" were much less frequent. Varinn starting taking regular journeys to the library, and after that more and more of the ceremonies started incorporating that bowl of metal liquid, what he calls the `Blood of Zarus`. Then they were happening all the time, sometimes daily. Whatever Varinn's true motive, that strange metal seems to be accelerating it. We need to know what we're dealing with if we hope to reverse the process. 
+
+**Lori**
+- A tall elf with the keen eyes and practical leather armor of a warden approaches your table. She carries a bow and quiver on her back. She introduces herself as Lori Faewood, Warden of the Verdant Refuge in the Gallant Grasslands.
+
+>"I'm sorry to interrupt, but I've come seeking help," she says, her voice strained with urgency. "I'm Lori Faewood, Warden of the Verdant Refuge. The Gallant Grasslands are dying. The fey music has fallen silent, and a creeping, black blight poisons the hills. Kaysa, the ancient fairy whose magic sustains the region, has vanished without a trace. Without Kaysa's magic to protect us, a dreadful pack of warlocks have taken over the land. 
+
+>"My rangers are spread thin. I need a small, capable group to travel to the heart of the problem—Glimmerglade Grove—and find out what has happened to Kaysa. If her light is gone for good, the Grasslands will fall into shadow completely.""
+
+**Dav**
+Before you can decide, another figure approaches: a massive Loxodon struggles to enter the taverns door. You recognize him from yesterday's fight along the road as either Dav or Gray, but you're not sure which.
+
+"I'm looking for people who aren't afraid to fight Zarunites," the Loxodon says in a gruff, direct tone. "Varinn's thieves are tearing the sacred metal from our homeland, the Argent Expanse, and folks willing to stand up against them are hard to come by."
