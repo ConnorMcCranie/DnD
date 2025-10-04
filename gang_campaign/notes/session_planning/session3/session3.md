@@ -6,6 +6,7 @@
 - puzzles (Library Labrynth )
 
 &nbsp;------**Owens Outpost**---------- 
+- Goblin is new cook
 > The familiar, unadorned buildings of Owen's Outpost are a welcome sight after the ambush. You guide Alyona to the town's tavern, where you find her parents arguing
 >Alan `For the last time Lianes, you shant leave town until we get word about Alyona.`
 > Lianes `I don't see what the big deal is, Alan. I've been dying to see the new exhibit at the museum, and it's only a few days journey each way. I'll be back before you know it.`
@@ -18,10 +19,10 @@
 - Alyona wants to get her original body back, but not sure how. 
   > I have no idea how the orb works. Even if I did, I doubt Varinn would willingly hand it over, and stealing it would be suicide.
   - Suggest that maybe they could figure out what the orbs are and how they work at the Lavendar Library
-- > Years ago when I first visited Zaridel, the "ceremonies" were much less frequent. Varinn starting taking regular journeys to the library, and after that more and more of the ceremonies started incorporating that bowl of metal liquid, what he calls the `Blood of Zarus`. Then they were happening all the time, sometimes daily. Whatever Varinn's true motive, that strange metal seems to be accelerating it. We need to know what we're dealing with if we hope to reverse the process. 
+- > When I first visited Zaridel, the "ceremonies" were much less frequent. Varinn starting taking regular journeys to the library, and after that more and more of the ceremonies started incorporating that bowl of metal liquid, what he calls the `Blood of Zarus`. Then they happened all the time, sometimes daily. Whatever Varinn's true motive, that strange metal seems to be accelerating it. We need to know what we're dealing with if we hope to reverse the process. 
 
 **Lori**
-- A tall elf with the keen eyes and practical leather armor of a warden approaches your table. She carries a bow and quiver on her back. She introduces herself as Lori Faewood, Warden of the Verdant Refuge in the Gallant Grasslands.
+- A tall elf with the keen eyes and practical leather armor of a warden approaches your table. She carries a bow and quiver on her back. She introduces herself 
 
 >"I'm sorry to interrupt, but I've come seeking help," she says, her voice strained with urgency. "I'm Lori Faewood, Warden of the Verdant Refuge. The Gallant Grasslands are dying. The fey music has fallen silent, and a creeping, black blight poisons the hills. Kaysa, the ancient fairy whose magic sustains the region, has vanished without a trace. Without Kaysa's magic to protect us, a dreadful pack of warlocks have taken over the land. 
 
@@ -38,9 +39,11 @@
 
 
 2. **Metal Copy Cat**
-    - The party enters a room that looks like a metal forge, with scrap metal, a furnace, etc. In the center is a large anvil that reads "The key is found within your head, use the key to paint me red. But be aware of what you spurn, for what you give shall be returned."
-    - They have to put blood on the anvil, at which point the furnace will glow and the tools will magically create a metal copy of whoevers blood it was. This copy has the same stats except +10 HP, 18AC, Resistance to Bludgeoning, Vulnerable to Lightning.
-    - After defeating it, the door will open and a magic elevator will take them to the next floor. 
+    - The party enters a room that looks like a metal forge, with scrap metal, a furnace, etc. In the center is a large anvil that reads 
+      - `The key is found within your head, so use the key to paint me red. For each to pass, one key is needed. But here's a warning to be heeded. Do be aware of what ye spurn, for what ye give shall be returned.`
+    - They all have to put their blood on the anvil, at which point the furnace will glow and the tools will magically create a metal copy of each player. This copy has the same stats except +10 HP, 18AC, Resistance to Bludgeoning, Vulnerable to Lightning.
+    - Silas will help with a (Mass?) Cure Wounds if necessary
+    - After defeating it, a magic elevator appears to the Library.
 
 
 3. **Narcisist's Puzzle** [Maybe Skip this one since Vaaneth can cheat]
@@ -54,7 +57,7 @@
 
     - If players have trouble figuring out the puzzle either have the statue go on and on about themselves, or leave clues such as a journal showering themselves with praise.
     
-4. **101 Candles**
+4. **101 Candles** [Maybe skip depending on time]
    - 100 unlit candles with 1 lit candle in a large room and a tile with the number 1 inscribed on the floor by the doorways. There is a torch and a bucket of water as well.
    -  Whichever of the several doors (including the exit) players walk through, they will find themselves in an identical room inscribed with the number 2. The next room will have the number 3, and so on.  If they turn around and try to "go back" they find that the room now has the next number instead of the previous number. If players light a candle, that candle will still be lit in the next room. 
    - If, when a character walks through a door, the current room has a number of lit candles equal to the *next* room number, the door goes to the elevator.
