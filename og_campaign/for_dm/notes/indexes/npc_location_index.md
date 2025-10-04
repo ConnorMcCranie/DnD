@@ -80,6 +80,10 @@
 - member of the Secret Society of Super Squirrels
 - Tends to accidentally interefere in matters that he's trying to avoid affecting
 
+##### Silas 'The Silent' Seraphon
+ - Before the coup, Silas Seraphon was a legend, a name spoken with reverence in concert halls and royal courts alike. He was the Bard representative on the Divine Council, yet no one had ever heard him speak a word. From a young age, Silas was mute, but he possessed a musical talent that was nothing short of divine. He communicated more eloquently through the strings of his enchanted lute, "Whisperwind," than any orator could with words. His music could mend broken hearts, inspire armies, and even coax secrets from the earth itself. It was said he traded his voice to a powerful Archfey in exchange for the world's melodies, allowing him to hear the song in all things.
+ - During the coup, he got turned into a squirrel and sent into the present day (future from his perspective)
+
 ##### Timothias
 
 - Surprisingly fiesty old man who lives in Owen's Outpost

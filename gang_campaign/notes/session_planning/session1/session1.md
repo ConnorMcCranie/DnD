@@ -22,7 +22,6 @@
     - Kaysa is being used as a "battery" for sorcerer's silver underneath the Glimmerglade grove
     - The large amount of necrotic energy has attracted evil warlocks, Mayor Morgana among them
 - Varinn's ideology believes that humans are the "perfect race." He tries to convert everyone into humans.
-    - Using the Eyes of Zarus, he controls non-humans' minds and hypnotizes them to change their race into being human
 
 
 

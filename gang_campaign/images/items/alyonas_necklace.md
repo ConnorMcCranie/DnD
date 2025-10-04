@@ -6,4 +6,4 @@ This silver chain holds a single, intricately detailed leaf pendant, characteris
 :
 :
 :
-*(Fey Heirloom)* If you fail a Wisdom saving throw to resist being charmed or frightened, you may make the roll again and take the result. This effect can be used once per short rest. 
+*(Fey Heirloom)* If you fail a Wisdom saving throw to resist being charmed or frightened, you may make the roll again and take the result. 
