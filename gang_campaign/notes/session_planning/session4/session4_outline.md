@@ -34,16 +34,22 @@ Choice happens 3 times. The challenges are
   - Queue with others getting library card:
     - Kebo-Wan, Thalor, and Moosra are waiting in line to get their library cards too 
     - Kebo-Wan is researching better BBQ recipes, Thalor is looking for dance forms and Moosra is just there for the cafe
+    - Varinn is seen teleporting in through the member's entrance and walking to his vault
   - At the front of the queue, Gaelor welcomes them
   > Welcome to the Lavender Library, the realm's largest collection of arcane tomes, magical scrolls, comprehensive treatises, cryptic texts, and, of course, publisher of Wizard Weekly, winner of Best Magical Magizine 372 years in a row! Make sure to check out this week's article "Mastering the Mirror Realm: 6 Common Mistakes Traversing Alternate Planes and How to Avoid Them. 
     &nbsp;
     My name is Gaelor and I'll be reviewing your application. \*magically creates holo-replay\* mhm, mhm, took a few tries, but that's fine. Yup.. mhm, almost died to the constructs, but who hasn't? Okay.. [Reference whatever choices they made in the third trial].... Congratulations! Your application has been accepted. Please step this way \*takes photos and prints out cards\* 
     &nbsp;
-    With a basic subscription, you can read any tome not in the premium section, and with a deluxe subscription you gain the benefit of checking out scrolls for up to 7 months. Our recommended package is the premium bundle, which comes in 9 tiers and includes additional benefits such as unlocking several members-only archives, unlimited refills at the cafe, and access to a magically safeguarded personal saftey deposit box for your most precious magical texts and artifacts. Which membership option did you want to purchase?   
+    With a basic subscription, you can read any tome not in the premium section, and with a deluxe subscription you gain the benefit of checking out scrolls for up to 7 months. Our recommended package is the premium bundle, which comes in 9 tiers and includes additional benefits such as unlocking several members-only archives, unlimited refills at the cafe, a personal teleportation circle into the library, and access to a magically safeguarded saftey deposit box for your most precious magical texts and artifacts. Which membership option did you want to purchase?   
     &nbsp;
       Don't forget to stop by The Sorcerer's Sips. Here's a voucher for one free Lavender Latte.
-  - Gaelor the Harengon seems to recognize the irony of forbidding animals
-  - Varinn 
+  - Tries not to let the squirrel in: No animals!
+    - Gaelor the Harengon seems to recognize the irony of forbidding animals
+  - **Varinn** 
+    - walks back from the premium tier9 area with a scroll in his hand [Arcana check]
+    > Ah, what a coincidence! It's always a pleasure to see familiar faces. Zarus has surely blessed us by intertwining our paths. 
+    >
+    > I wish we were meeting under happier circumstances. You see, one of my closest colleagues was recently found murdered not far from Zaridel. This loss has taken a heavy toll upon not only me but the countless citizens who looked up to and relied upon her. We certainly live in very dangerous times! Those who leave the safety of Zaridel's walls risk such great peril. When I learned of Morgana's untimely demise, I was worried sick that something terrible might have also become of the gracious visitors we welcomed into our city. If memory serves, your group of travelers set out on the very same night that someone with murderous intent was evidently on that very same road. I thank Zarus above that *you* were not also killed. 
   - Sorcerer's Silver Lore: give learn that it is related to chronurgy magic
   
   --------------**Travel to Gallant Grasslands**-----------------
