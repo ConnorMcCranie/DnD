@@ -49,9 +49,15 @@ Choice happens 3 times. The challenges are
     - walks back from the premium tier9 area with a scroll in his hand [Arcana check]
     > Ah, what a coincidence! It's always a pleasure to see familiar faces. Zarus has surely blessed us by intertwining our paths. 
     >
-    > I wish we were meeting under happier circumstances. You see, one of my closest colleagues was recently found murdered not far from Zaridel. This loss has taken a heavy toll upon not only me but the countless citizens who looked up to and relied upon her. We certainly live in very dangerous times! Those who leave the safety of Zaridel's walls risk such great peril. When I learned of Morgana's untimely demise, I was worried sick that something terrible might have also become of the gracious visitors we welcomed into our city. If memory serves, your group of travelers set out on the very same night that someone with murderous intent was evidently on that very same road. I thank Zarus above that *you* were not also killed. 
+    > I wish we were meeting under happier circumstances. You see, one of my closest colleagues was recently found murdered not far from Zaridel. This loss has taken a heavy toll upon not only me but the countless citizens who looked up to and relied upon her. We certainly live in very dangerous times! Those who leave the safety of Zaridel's walls risk such great peril. When I learned of Morgana's untimely demise, I was worried sick that something terrible might have also become of the gracious visitors we welcomed into our city. If memory serves, your group of travelers set out on the very same night that the tragedy occured. Indeed, I seem to recall that you had even set out on that *very same road*. I thank Zarus above that *you* were not also killed. 
+    >
+    > For your own safety, I feel I must offer the hospitality and security of Zaridel to you once more. Now that you understand the severity of the danger, you will surely reconsider the offer. [Wisdom Save or be Charmed]
+    - Varinn starts to cast a spell, but Gaelor interrupts
+      > SHHHHHHH no spell casting is allowed in the library
   - Sorcerer's Silver Lore: give learn that it is related to chronurgy magic
-  
+    - Varinn realizes he shouldn't force the issue and departs. 
+      > Anyways, I have pressing business to attend to. If you ever change your mind about Zaridel, you will be welcomed back with open arms. I'm sure Zarus will cross our paths again.
+      
   --------------**Travel to Gallant Grasslands**-----------------
   - Lori arrives with horses (beasts of burden)
   - Encounter (with more warlocks?)
