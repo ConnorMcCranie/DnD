@@ -58,8 +58,4 @@ Keep dancing,
 
 With twirls and determination,
 -Derek
-___
-  
- (*There are miscellaneous doodles of dance moves and notes about possible coreography*)
-___
   
