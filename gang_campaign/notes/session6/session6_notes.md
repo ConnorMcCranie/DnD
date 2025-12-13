@@ -1,4 +1,10 @@
 # Session 6
+**Recap**
+- Horace the Horse
+- Got to Verdant Refuge
+- Got way too many powders from Charles the Alchemist
+- Got fancy clothes for the wake and planned a heist
+- Met Thalia the Ironforge and got sword blade infused with pixie dust
 
 **Lore**
 - Morgan Sr. has high expectations of his necromancer family: sorta addams family coded
@@ -16,9 +22,10 @@
   - Cast Speak with Dead on Morgana, but her throat is shot through and she can't speak
     - motivates full resurrection using kaysa
 - Marsha wants the corset back, says it's important for relationship with Raven Queen, but too senile to adequately explain details 
-- There is a puzzle in the mansion which unlocks Morgan Jr.'s secret room devoted to his guilty pleasure of (whatever the dnd equivalent of kawaii jpop is)
+- There is a puzzle in the mansion which unlocks Morgan Jr.'s secret room devoted to his guilty pleasure of Glimmer G-pop (dnd equivalent of kawaii jpop)
 - --
--  5 lever puzzle
+**Puzzles**
+1.  5 lever puzzle
   > A primary first helps open the door
   The second lever will sound like a roar
   The last lever pulled is the color of sky
@@ -27,13 +34,32 @@
   - correct answer red,black,yellow,green, blue
   - correct order opens a compartment with triangle lock key 
   > key engraving = "Five from the right"
-- Mirror Puzzle
+1. Mirror Puzzle
   - One room has a giant mirror taking up the whole wall
   - Some things are different in the reflection:
     - Chair out of place
     - key on fireplace mantle
     - cloak hanging on coat rack can be found in closet in nearby room or worn by wake attendants
-    - necromancy book is on side table next to chair: book is 
+    - necromancy book is on side table next to chair: book is on the table in front of Morgan's corpse at the  main ceremony
+  - locating/placing all 3 objects in right spot causes key to appear on fireplace mantle 
+    > key says "Five from the left"
+2.  Key Puzzle
+  - There is an ornate metal doorway with triangular array of keyholes of size 15.
+    > above door says `DARK MAGIC RITUAL ROOM: AUTHORIZED NECROMANCERS ONLY`
+    >
+    > clue below bottom row of keyholes says "3 in between" 
+  - Need to obtain the two keys and place in correct slots 
+    - 5th row, keyholes 1 & 5
+    - 13th row, keyholes 5 & 9
+  - solving one row makes something click into place and the keyholes light up green
+  - solving both rows makes the triangle part in half and open to reveal spooky corridor
+    - ominous runes carved into wall with blood, torture devices strewn about, skeletons, etc. At the end of hall is simple wooden door which says 
+    > `CHAMBER OF ETERNAL SCREAMING - DO NOT ENTER OR YOUR SOUL WILL MELT`
+    - The room is devoted to Morgan Jr.'s secret obsession: Glimmer G(nome)-Pop
+    - Inside there is pulsating blue and pink lights like a rave, with a discoball and the sound of G-pop music playing. There is countless G-pop paraphenalia  
+      - The posters feature "The Gumdrops" an all-female G-Pop group consisting of three Forest Gnomes and a Rock Gnome drummer. They have enormous, magically enlarged eyes and brightly dyed hair.
+      - There are life size cutouts of Kira, Bop, and Lulu (the group Glitter Morning)
+      - Song: Cast Your Heart (at 9th level)
 - --
 **Wheel O' Powder**
 - Base powder effects
@@ -58,12 +84,17 @@
 
 
 *BAD*
-- Spaghetti 4 handz
-- 55/whoofh
-- The Runs
-- Rubber Bones
-- Helium Voice
-- Swell up uncontrollably
-- Taste with the entire surface area of your body, which is super distracting (Taste the Rainbow)
-- Frightened by nearest creature (percieve them to have said something harmful )
-- Start glowing 
+1. Spaghetti 4 handz
+1. 55/whoofh
+1. The Runs
+1. Rubber Bones
+1. Helium Voice
+1. Swell up uncontrollably
+1. Taste with the entire surface area of your body, which is super distracting (Taste the Rainbow)
+1. Frightened by nearest creature (percieve them to have said something harmful )
+1. Start glowing 
+1. Grow a beard
+2. Start hearing voices
+
+*GOOD*
+- 
