@@ -78,4 +78,5 @@
   - color:sounds = black:roar,yellow:buzz,blue:flute,green:wind,red:bell
   - correct answer red,black,yellow,green, blue
   - correct order opens a compartment with triangle lock key 
+- 
   > "Five from the right with 3 inbetween"
