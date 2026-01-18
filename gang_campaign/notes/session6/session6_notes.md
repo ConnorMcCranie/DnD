@@ -33,7 +33,7 @@
   - color:sounds = black:roar,yellow:buzz,blue:flute,green:wind,red:bell
   - correct answer red,black,yellow,green, blue
   - correct order opens a compartment with triangle lock key 
-  > key engraving = "Five from the right"
+  > key engraving = "Five fr om the right"
 1. Mirror Puzzle
   - One room has a giant mirror taking up the whole wall
   - Some things are different in the reflection:
@@ -63,22 +63,22 @@
 - --
 **Wheel O' Powder**
 - Base powder effects
-  |color|effect| siide effect|
-  |-|-|-|
-  |silver| +force dmg (doubled for monsters) |
-  | green| +2 init and 5 movespeed | con save or puke
-  | blue| fly spell | legs feel like jelly
-  | orange| necrotic resistance| radiant vulnerability
-  | purple| +spell slot |
-  | turquoise| nice body high | wis save or mind high too intense
-  | magenta| turn into moose | very hungry for plant life
-  | cyan| dispel magic (unpolymorph) |
-  | brown| shrink & +10 str | con save or diarrhrea 
-  | black| summon raven familiar | wis save or talk in squaks
-  | grey| after one turn, revert to where you were when you took the powder| int save or chronurgy sickneses
-  | red| go into rage (half dmg ) | str save or get butt cramp
-  | white| haste | the lethargy happens *first*
-  | gold| |
+  | color     | effect                                                            | siide effect                      |
+  | --------- | ----------------------------------------------------------------- | --------------------------------- |
+  | silver    | +force dmg (doubled for monsters)                                 |
+  | green     | +2 init and 5 movespeed                                           | con save or puke                  |
+  | blue      | fly spell                                                         | legs feel like jelly              |
+  | orange    | necrotic resistance                                               | radiant vulnerability             |
+  | purple    | +spell slot                                                       |
+  | turquoise | nice body high                                                    | wis save or mind high too intense |
+  | magenta   | turn into moose                                                   | very hungry for plant life        |
+  | cyan      | dispel magic (unpolymorph)                                        |
+  | brown     | shrink & +10 str                                                  | con save or diarrhrea             |
+  | black     | summon raven familiar                                             | wis save or talk in squaks        |
+  | grey      | after one turn, revert to where you were when you took the powder | int save or chronurgy sickneses   |
+  | red       | go into rage (half dmg )                                          | str save or get butt cramp        |
+  | white     | haste                                                             | the lethargy happens *first*      |
+  | gold      |                                                                   |
   
 
 
@@ -97,4 +97,11 @@
 2. Start hearing voices
 
 *GOOD*
-- 
+
+
+
+**Notes**
+- Salisbury Brooke is 8-year-old girl gnomish piano prodigy
+  - Cousin is Country-Fried
+- Horace is smoking cigarettes through an apple every 2 hours
+- Mouse bought map of gallant grasslands
