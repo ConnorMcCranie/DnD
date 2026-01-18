@@ -2,6 +2,7 @@
 
 ## Ideas
 - Converse with Morgan, G-PoP item ??
+  - He says that to get to Kaysa will require fighting through difficult enemies
 - Whiskey is almost out of cigarettes but Joe Camel has a magically refilling pack
 - Encounter group of Tortles (Shellsworn) being attacked by monsters
   - Necrotic fairies, undead, etc.
